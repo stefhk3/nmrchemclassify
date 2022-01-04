@@ -21,34 +21,10 @@ def load_image(img_path, show=False):
 
     return img_tensor
 
-class JoinedGenerator(keras.utils.Sequence):
-    def __init__(self, generator1, generator2):
-        self.generator1 = generator1
-        self.generator2 = generator2 
-
-    def __len__(self):
-        return len(self.generator1)
-
-    def __getitem__(self, i):
-        x1, y1 = self.generator1[i]
-        x2, y2 = self.generator2[i]
-        return [x1, x2], y1
-
-    def on_epoch_end(self):
-        self.generator1.on_epoch_end()
-        self.generator2.on_epoch_end()
-
-
 train_datagen=ImageDataGenerator(rescale=1./255)
-train_set_hmbc=train_datagen.flow_from_directory('../classes/Superclass/hmbc/train',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical',shuffle=False)
-train_set_hsqc=train_datagen.flow_from_directory('../classes/Superclass/hsqc/train',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical',shuffle=False)
-training_generator = JoinedGenerator(train_set_hmbc, train_set_hsqc)
-test_set_hmbc=train_datagen.flow_from_directory('../classes/Superclass/hmbc/test',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical',shuffle=False)
-test_set_hsqc=train_datagen.flow_from_directory('../classes/Superclass/hsqc/test',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical',shuffle=False)
-testing_generator = JoinedGenerator(test_set_hmbc, test_set_hsqc)
+test_set_hmbc=train_datagen.flow_from_directory('../classesboth/Superclass/hmbc/test',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical',shuffle=False)
+test_set_hsqc=train_datagen.flow_from_directory('../classesboth/Superclass/hsqc/test',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical',shuffle=False)
 
-hmbc_imgs, hmbc_targets = train_set_hmbc.next()
-hsqc_imgs, hsqc_targets = train_set_hsqc.next()
 hmbc_imgs_test, hmbc_targets_test = test_set_hmbc.next()
 hsqc_imgs_test, hsqc_targets_test = test_set_hsqc.next()
 
@@ -64,7 +40,9 @@ hmbc_softmax1 = layers.MaxPooling2D(2,2)(hmbc_conv1)
 hmbc_conv2 = layers.Conv2D(64, (3,3), activation='relu')(hmbc_softmax1)
 hmbc_softmax2 = layers.MaxPooling2D(2,2)(hmbc_conv2)
 hmbc_conv3 = layers.Conv2D(64, (3,3), activation='relu')(hmbc_softmax2)
-hmbc_flatten = layers.Flatten()(hmbc_conv3)
+hmbc_softmax3 = layers.MaxPooling2D(2,2)(hmbc_conv3)
+hmbc_conv4 = layers.Conv2D(128, (3,3), activation='relu')(hmbc_softmax3)
+hmbc_flatten = layers.Flatten()(hmbc_conv4)
 
 #the hsqc "column"
 hsqc_conv1 = layers.Conv2D(32, (3,3), activation='relu', input_shape=(300, 205, 1))(hsqc_input)
@@ -72,14 +50,16 @@ hsqc_softmax1 = layers.MaxPooling2D(2,2)(hsqc_conv1)
 hsqc_conv2 = layers.Conv2D(64, (3,3), activation='relu')(hsqc_softmax1)
 hsqc_softmax2 = layers.MaxPooling2D(2,2)(hsqc_conv2)
 hsqc_conv3 = layers.Conv2D(64, (3,3), activation='relu')(hsqc_softmax2)
-hsqc_flatten = layers.Flatten()(hsqc_conv3)
+hsqc_softmax3 = layers.MaxPooling2D(2,2)(hsqc_conv3)
+hsqc_conv4 = layers.Conv2D(128, (3,3), activation='relu')(hsqc_softmax3)
+hsqc_flatten = layers.Flatten()(hsqc_conv4)
 
 #concetenate
 concatted = layers.Concatenate()([hsqc_flatten, hmbc_flatten])
 
 #the output
 dense = layers.Dense(64, activation='relu')(concatted)
-output = layers.Dense(3, activation='softmax', name='structure')(dense)
+output = layers.Dense(17, activation='softmax', name='structure')(dense)
 
 model = keras.Model(
     inputs=[hmbc_input, hsqc_input],
@@ -90,12 +70,16 @@ model = keras.Model(
 
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
-#Ensuring that our data match
-if(hmbc_targets.all() == hsqc_targets.all()):
-    model.fit(x=[hmbc_imgs, hsqc_imgs], y=hmbc_targets,  epochs=epochs)
+#I did not find a way to do the epochs automatically with all data, so I did it manually (note it is easy with feeding train_set directly, but we need to put together the two inputs)
+epochs=10
+for e in range(epochs):
+    print('Epoch', e)
+    train_set_hmbc=train_datagen.flow_from_directory('../classesboth/Superclass/hmbc/train',target_size=(1133,791),batch_size=32,color_mode='grayscale',class_mode='categorical',shuffle=False)
+    train_set_hsqc=train_datagen.flow_from_directory('../classesboth/Superclass/hsqc/train',target_size=(1133,791),batch_size=32,color_mode='grayscale',class_mode='categorical',shuffle=False)
+    hmbc_imgs, hmbc_targets = train_set_hmbc.next()
+    hsqc_imgs, hsqc_targets = train_set_hsqc.next()
+    model.fit(x=[hmbc_imgs, hsqc_imgs], y=hmbc_targets,  epochs=1, steps_per_epoch=11)
 
-
-x_test, y_test = next(testing_generator)
-score = network.evaluate([hmbc_imgs_test,hsqc_imgs_test], hmbc_targets_test)
+score = model.evaluate([hmbc_imgs_test,hsqc_imgs_test], hmbc_targets_test)
 print('Test loss:', score[0])
 print('Test accuracy:', score[1])
