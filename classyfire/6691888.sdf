@@ -1,0 +1,2606 @@
+C18O6
+Mrv1568 12291608312D          
+
+ 24 25  0  0  0  0            999 V2000
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+ 18 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 13 24  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=SPKBOYNZSLSUPO-UHFFFAOYSA-N
+> <SMILES>
+COC1=CC=CC=C1OCC(=O)C1=CC(OC)=C(OC(C)=O)C=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Organic oxygen compounds
+> <Class>
+Organooxygen compounds
+> <Subclass>
+Carbonyl compounds
+> <Intermediate Nodes>
+Ketones	Aryl ketones	Phenylketones
+> <Direct Parent>
+Alkyl-phenylketones
+> <Alternative Parents>
+Phenol esters	Phenoxy compounds	Methoxybenzenes	Benzoyl derivatives	Aryl alkyl ketones	Anisoles	Alkyl aryl ethers	Carboxylic acid esters	Monocarboxylic acids and derivatives	Organic oxides	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Alkyl-phenylketone	Phenol ester	Anisole	Benzoyl	Phenoxy compound	Phenol ether	Aryl alkyl ketone	Methoxybenzene	Alkyl aryl ether	Monocyclic benzene moiety	Benzenoid	Carboxylic acid ester	Monocarboxylic acid or derivatives	Ether	Carboxylic acid derivative	Hydrocarbon derivative	Organic oxide	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as alkyl-phenylketones. These are aromatic compounds containing a ketone substituted by one alkyl group, and a phenyl group.
+> <Ancestors>
+Alkyl aryl ethers	Alkyl-phenylketones	Anisoles	Aryl alkyl ketones	Aryl ketones	Benzene and substituted derivatives	Benzenoids	Benzoyl derivatives	Carbonyl compounds	Carboxylic acid derivatives	Carboxylic acid esters	Carboxylic acids and derivatives	Chemical entities	Ethers	Hydrocarbon derivatives	Ketones	Methoxybenzenes	Monocarboxylic acids and derivatives	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organooxygen compounds	Phenol esters	Phenol ethers	Phenoxy compounds	Phenylketones
+> <External Descriptors>
+aromatic ketone (CHEBI, CHEBI:86677)
+$$$$
+C10O3
+Mrv1568 12281613012D          
+
+ 13 13  0  0  0  0            999 V2000
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  8 13  2  0  0  0  0
+  3 13  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=JMFRWRFFLBVWSI-NSCUHMNNSA-N
+> <SMILES>
+COC1=C(O)C=CC(\C=C\CO)=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Phenols
+> <Subclass>
+Methoxyphenols
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Methoxyphenols
+> <Alternative Parents>
+Cinnamyl alcohols	Styrenes	Phenoxy compounds	Methoxybenzenes	Anisoles	Alkyl aryl ethers	1-hydroxy-2-unsubstituted benzenoids	Primary alcohols	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Cinnamyl alcohol	Methoxyphenol	Phenoxy compound	Anisole	Methoxybenzene	Styrene	Phenol ether	1-hydroxy-2-unsubstituted benzenoid	Alkyl aryl ether	Monocyclic benzene moiety	Ether	Primary alcohol	Alcohol	Hydrocarbon derivative	Organic oxygen compound	Organooxygen compound	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as methoxyphenols. These are compounds containing a methoxy group attached to the benzene ring of a phenol moiety.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alcohols and polyols	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Chemical entities	Cinnamyl alcohols	Ethers	Hydrocarbon derivatives	Methoxybenzenes	Methoxyphenols	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Phenylpropanoids and polyketides	Primary alcohols	Styrenes
+> <External Descriptors>
+phenols (CHEBI, CHEBI:17745)	phenylpropanoid (CHEBI, CHEBI:17745)	monomethoxybenzene (CHEBI, CHEBI:17745)	Coniferyl alcohol derivatives (KEGG, C00590)
+$$$$
+C11O4
+Mrv1568 12281611502D          
+
+ 15 15  0  0  0  0            999 V2000
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+  3 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=LZFOPEXOUVTGJS-ONEGZZNKSA-N
+> <SMILES>
+COC1=CC(\C=C\CO)=CC(OC)=C1O
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Phenols
+> <Subclass>
+Methoxyphenols
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Methoxyphenols
+> <Alternative Parents>
+Dimethoxybenzenes	Cinnamyl alcohols	Styrenes	Phenoxy compounds	Anisoles	Alkyl aryl ethers	Primary alcohols	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Cinnamyl alcohol	Methoxyphenol	Dimethoxybenzene	M-dimethoxybenzene	Anisole	Phenoxy compound	Phenol ether	Styrene	Methoxybenzene	Alkyl aryl ether	Monocyclic benzene moiety	Ether	Organooxygen compound	Organic oxygen compound	Alcohol	Primary alcohol	Hydrocarbon derivative	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as methoxyphenols. These are compounds containing a methoxy group attached to the benzene ring of a phenol moiety.
+> <Ancestors>
+Alcohols and polyols	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Chemical entities	Cinnamyl alcohols	Dimethoxybenzenes	Ethers	Hydrocarbon derivatives	Methoxybenzenes	Methoxyphenols	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Phenylpropanoids and polyketides	Primary alcohols	Styrenes
+> <External Descriptors>
+sinapyl alcohol (CHEBI, CHEBI:64557)	Sinapate derivatives (KEGG, C02325)
+$$$$
+C9O2
+Mrv1568 12281607162D          
+
+ 11 11  0  0  0  0            999 V2000
+   -0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  5 11  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=PTNLHDGQWUGONS-OWOJBTEDSA-N
+> <SMILES>
+OC\C=C\C1=CC=C(O)C=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Phenylpropanoids and polyketides
+> <Class>
+Cinnamyl alcohols
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Cinnamyl alcohols
+> <Alternative Parents>
+Styrenes	1-hydroxy-2-unsubstituted benzenoids	Primary alcohols	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Cinnamyl alcohol	Styrene	1-hydroxy-2-unsubstituted benzenoid	Phenol	Benzenoid	Monocyclic benzene moiety	Organic oxygen compound	Hydrocarbon derivative	Primary alcohol	Organooxygen compound	Alcohol	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as cinnamyl alcohols. These are aromatic alcohols containing a 3-phenylprop-2-en-1-ol moiety.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alcohols and polyols	Benzene and substituted derivatives	Benzenoids	Chemical entities	Cinnamyl alcohols	Hydrocarbon derivatives	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Phenols	Phenylpropanoids and polyketides	Primary alcohols	Styrenes
+> <External Descriptors>
+phenols (CHEBI, CHEBI:64555)	phenylpropanoid (CHEBI, CHEBI:64555)	4-hydroxycinnamyl alcohol (CHEBI, CHEBI:64555)	Paracoumaryl alcohol derivatives (KEGG, C02646)
+$$$$
+C24O8
+Mrv1568 11161516272D          
+
+ 32 34  0  0  1  0            999 V2000
+    6.3569    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6424    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9279    1.1104    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2135    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2135   -0.1271    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4990    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7845    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6411    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1435    2.1904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6284    1.5229    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1435    0.8555    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3984    0.0709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1536   -0.5422    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2054   -0.1006    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4604   -0.8853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9083   -1.4984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4534    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8659    0.8085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6909    0.8085    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1034    0.0940    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6909   -0.6205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1034    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9284    1.5229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6909    2.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8659    2.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3556    3.1729    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    3.5854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0701    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 14 15  1  6  0  0  0
+ 15 16  2  0  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 13 20  1  1  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 22 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 20 28  1  0  0  0  0
+ 11 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 29 32  2  0  0  0  0
+  8 32  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=VQWINCMFRHLWDR-CFUXTEHNSA-N
+> <SMILES>
+CCOC(=O)\C=C\C1=CC2=C(O[C@@H]([C@H]2C(=O)OCC)C2=CC(OC)=C(O)C=C2)C(OC)=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Phenylpropanoids and polyketides
+> <Class>
+2-arylbenzofuran flavonoids
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+2-arylbenzofuran flavonoids
+> <Alternative Parents>
+Lignans, neolignans and related compounds	Coumaric acids and derivatives	Cinnamic acid esters	Methoxyphenols	Benzofurans	Coumarans	Styrenes	Phenoxy compounds	Methoxybenzenes	Anisoles	1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Fatty acid esters	Dicarboxylic acids and derivatives	Enoate esters	Oxacyclic compounds	Hydrocarbon derivatives	Organic oxides	Carbonyl compounds
+> <Molecular Framework>
+Aromatic heteropolycyclic compounds
+> <Substituents>
+2-arylbenzofuran flavonoid	Neolignan skeleton	Cinnamic acid or derivatives	Coumaric acid or derivatives	Cinnamic acid ester	Methoxyphenol	Benzofuran	Coumaran	Phenoxy compound	Anisole	Methoxybenzene	Phenol ether	Styrene	Alkyl aryl ether	1-hydroxy-2-unsubstituted benzenoid	Fatty acid ester	Phenol	Fatty acyl	Dicarboxylic acid or derivatives	Benzenoid	Monocyclic benzene moiety	Enoate ester	Alpha,beta-unsaturated carboxylic ester	Carboxylic acid ester	Organoheterocyclic compound	Oxacycle	Ether	Carboxylic acid derivative	Organooxygen compound	Carbonyl group	Organic oxygen compound	Organic oxide	Hydrocarbon derivative	Aromatic heteropolycyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as 2-arylbenzofuran flavonoids. These are phenylpropanoids containing the 2-phenylbenzofuran moiety.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	2-arylbenzofuran flavonoids	Alkyl aryl ethers	Alpha,beta-unsaturated carboxylic esters	Anisoles	Benzene and substituted derivatives	Benzenoids	Benzofurans	Carbonyl compounds	Carboxylic acid derivatives	Carboxylic acid esters	Carboxylic acids and derivatives	Chemical entities	Cinnamic acid esters	Cinnamic acids and derivatives	Coumarans	Coumaric acids and derivatives	Dicarboxylic acids and derivatives	Enoate esters	Ethers	Fatty Acyls	Fatty acid esters	Hydrocarbon derivatives	Hydroxycinnamic acids and derivatives	Lignans, neolignans and related compounds	Lipids and lipid-like molecules	Methoxybenzenes	Methoxyphenols	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organoheterocyclic compounds	Organooxygen compounds	Oxacyclic compounds	Phenol ethers	Phenols	Phenoxy compounds	Phenylpropanoids and polyketides	Styrenes
+> <External Descriptors>
+
+$$$$
+C20O8
+Mrv1568 12191506542D          
+
+ 28 31  0  0  1  0            999 V2000
+   -1.1092   -3.6193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8543   -2.8347    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0473   -2.6631    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2076   -1.8785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0146   -1.7070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5666   -2.3201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3117   -3.1047    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5047   -3.2762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2498   -4.0609    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2695   -0.9224    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7846   -0.2549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2695    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0146    1.1971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0542    0.1576    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8388    0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.3237   -0.2549    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8388   -0.9224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0937   -1.7070    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0542   -0.6674    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.0937    1.1971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5417    1.8102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7966    2.5948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6036    2.7664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8585    3.5510    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1556    2.1533    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9626    2.3248    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5146    1.7117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9007    1.3686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  3  8  4  0  0  0  0
+  8  9  1  0  0  0  0
+ 10  5  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 14 12  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 19 17  1  6  0  0  0
+ 10 19  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 15 20  1  6  0  0  0
+ 20 21  4  0  0  0  0
+ 21 22  4  0  0  0  0
+ 22 23  4  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  4  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 25 28  4  0  0  0  0
+ 20 28  4  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=DNJFYRXUTBVKIJ-XLAORIBOSA-N
+> <SMILES>
+COc1cc(ccc1O)[C@H]1OC(=O)[C@@H]2[C@@H](OC(=O)[C@H]12)c1ccc(O)c(OC)c1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Lignans, neolignans and related compounds
+> <Class>
+Lignan lactones
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Lignan lactones
+> <Alternative Parents>
+Furofuran lignans	Methoxyphenols	Phenoxy compounds	Methoxybenzenes	Anisoles	Furofurans	1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Gamma butyrolactones	Dicarboxylic acids and derivatives	Oxolanes	Carboxylic acid esters	Oxacyclic compounds	Carbonyl compounds	Hydrocarbon derivatives	Organic oxides
+> <Molecular Framework>
+Aromatic heteropolycyclic compounds
+> <Substituents>
+Lignan lactone	Furanoid lignan	Furofuran lignan skeleton	Methoxyphenol	Phenoxy compound	Anisole	Furofuran	Methoxybenzene	Phenol ether	1-hydroxy-2-unsubstituted benzenoid	Alkyl aryl ether	Phenol	Monocyclic benzene moiety	Dicarboxylic acid or derivatives	Gamma butyrolactone	Benzenoid	Oxolane	Lactone	Carboxylic acid ester	Oxacycle	Ether	Carboxylic acid derivative	Organoheterocyclic compound	Hydrocarbon derivative	Organic oxide	Carbonyl group	Organic oxygen compound	Organooxygen compound	Aromatic heteropolycyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as lignan lactones. These are lignans that contain a lactone moiety. They include 1-aryltetralin lactones, dibenzylbutyrolactone lignans, and podophyllotoxins, among others.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Carbonyl compounds	Carboxylic acid derivatives	Carboxylic acid esters	Carboxylic acids and derivatives	Chemical entities	Dicarboxylic acids and derivatives	Ethers	Furanoid lignans	Furofuran lignans	Furofurans	Gamma butyrolactones	Hydrocarbon derivatives	Lactones	Lignan lactones	Lignans, neolignans and related compounds	Methoxybenzenes	Methoxyphenols	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organoheterocyclic compounds	Organooxygen compounds	Oxacyclic compounds	Oxolanes	Phenol ethers	Phenols	Phenoxy compounds
+> <External Descriptors>
+
+$$$$
+C19O5
+Mrv1568 04121704252D          
+
+ 24 25  0  0  0  0            999 V2000
+    5.0013   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -6.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -7.4250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 17 23  1  0  0  0  0
+  8 24  2  0  0  0  0
+  3 24  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=UPNLRNQUIJXYPN-LFWRRJNUSA-N
+> <SMILES>
+COC1=C(O)C=CC(\C=C\COC(=O)\C=C\C2=CC=C(O)C=C2)=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Phenylpropanoids and polyketides
+> <Class>
+Cinnamic acids and derivatives
+> <Subclass>
+Hydroxycinnamic acids and derivatives
+> <Intermediate Nodes>
+Hydroxycinnamic acid esters
+> <Direct Parent>
+Coumaric acid esters
+> <Alternative Parents>
+Coumaric acids and derivatives	Cinnamic acid esters	Methoxyphenols	Styrenes	Phenoxy compounds	Methoxybenzenes	Anisoles	Fatty acid esters	Alkyl aryl ethers	1-hydroxy-2-unsubstituted benzenoids	Enoate esters	Monocarboxylic acids and derivatives	Organic oxides	Hydrocarbon derivatives	Carbonyl compounds
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Coumaric acid ester	Coumaric acid or derivatives	Cinnamic acid ester	Methoxyphenol	Anisole	Phenoxy compound	Phenol ether	Styrene	Methoxybenzene	Phenol	Alkyl aryl ether	Fatty acid ester	1-hydroxy-2-unsubstituted benzenoid	Fatty acyl	Monocyclic benzene moiety	Benzenoid	Enoate ester	Alpha,beta-unsaturated carboxylic ester	Carboxylic acid ester	Carboxylic acid derivative	Monocarboxylic acid or derivatives	Ether	Hydrocarbon derivative	Organooxygen compound	Carbonyl group	Organic oxygen compound	Organic oxide	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as coumaric acid esters. These are aromatic compounds containing an ester derivative of coumaric acid.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Alpha,beta-unsaturated carboxylic esters	Anisoles	Benzene and substituted derivatives	Benzenoids	Carbonyl compounds	Carboxylic acid derivatives	Carboxylic acid esters	Carboxylic acids and derivatives	Chemical entities	Cinnamic acid esters	Cinnamic acids and derivatives	Coumaric acid esters	Coumaric acids and derivatives	Enoate esters	Ethers	Fatty Acyls	Fatty acid esters	Hydrocarbon derivatives	Hydroxycinnamic acid esters	Hydroxycinnamic acids and derivatives	Lipids and lipid-like molecules	Methoxybenzenes	Methoxyphenols	Monocarboxylic acids and derivatives	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Phenylpropanoids and polyketides	Styrenes
+> <External Descriptors>
+phenols (CHEBI, CHEBI:86599)	cinnamate ester (CHEBI, CHEBI:86599)	monomethoxybenzene (CHEBI, CHEBI:86599)
+$$$$
+C30O9
+Mrv1568 11201506452D          
+
+ 39 41  0  0  1  0            999 V2000
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  3  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 12 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 24 27  1  1  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 29 30  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 29 32  1  0  0  0  0
+ 32 33  2  0  0  0  0
+ 33 34  1  0  0  0  0
+ 34 35  2  0  0  0  0
+ 35 36  1  0  0  0  0
+ 36 37  1  0  0  0  0
+ 33 38  1  0  0  0  0
+ 38 39  2  0  0  0  0
+ 28 39  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=RGTXPDPNPBRARZ-GOUKENADSA-N
+> <SMILES>
+COC1=C(O)C=CC(=C1)[C@@H](OC1=C(OC)C=C(\C=C\CO)C=C1)[C@H](CO)OC1=C(OC)C=C(\C=C\CO)C=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Phenols
+> <Subclass>
+Methoxyphenols
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Methoxyphenols
+> <Alternative Parents>
+Cinnamyl alcohols	Styrenes	Phenoxy compounds	Methoxybenzenes	Anisoles	Alkyl aryl ethers	1-hydroxy-2-unsubstituted benzenoids	Primary alcohols	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Cinnamyl alcohol	Methoxyphenol	Phenoxy compound	Anisole	Methoxybenzene	Styrene	Phenol ether	1-hydroxy-2-unsubstituted benzenoid	Alkyl aryl ether	Monocyclic benzene moiety	Ether	Primary alcohol	Alcohol	Hydrocarbon derivative	Organic oxygen compound	Organooxygen compound	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as methoxyphenols. These are compounds containing a methoxy group attached to the benzene ring of a phenol moiety.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alcohols and polyols	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Chemical entities	Cinnamyl alcohols	Ethers	Hydrocarbon derivatives	Methoxybenzenes	Methoxyphenols	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Phenylpropanoids and polyketides	Primary alcohols	Styrenes
+> <External Descriptors>
+phenols (CHEBI, CHEBI:86711)	methoxybenzene (CHEBI, CHEBI:86711)
+$$$$
+C20O6
+Mrv1552506192010382D          
+
+ 30 33  0  0  1  0            999 V2000
+    0.7846   -1.9049    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7846   -1.0799    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.3349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4849   -0.6674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5834    0.5834    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2549    0.7846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0619    0.9561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3168    1.7408    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1238    1.9123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3788    2.6969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7648    2.3539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0198    3.1385    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0422    2.1823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2971    1.3977    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7846   -0.2549    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4521   -0.7399    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5692   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0542   -0.6674    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5692   -1.3349    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.3841   -1.4639    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8242   -2.1195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6312   -2.2910    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8861   -3.0756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6931   -3.2472    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2451   -2.6341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3341   -3.6887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5890   -4.4734    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5271   -3.5172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2721   -2.7326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  1  0  0  0
+  5  7  1  6  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+  7 15  1  0  0  0  0
+  5 16  1  0  0  0  0
+  2 16  1  0  0  0  0
+ 16 17  1  1  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+  2 20  1  0  0  0  0
+ 20 21  1  1  0  0  0
+ 20 22  1  6  0  0  0
+ 22 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 24 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 29  1  0  0  0  0
+ 29 30  2  0  0  0  0
+ 22 30  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=HGXBRUKMWQGOIE-UYVJDWJCSA-N
+> <SMILES>
+[H][C@@]12CO[C@]([H])(C3=CC(OC)=C(O)C=C3)[C@]1([H])CO[C@]2([H])C1=CC(OC)=C(O)C=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Lignans, neolignans and related compounds
+> <Class>
+Furanoid lignans
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Furanoid lignans
+> <Alternative Parents>
+Furofuran lignans	Methoxyphenols	Phenoxy compounds	Methoxybenzenes	Furofurans	Anisoles	Alkyl aryl ethers	1-hydroxy-2-unsubstituted benzenoids	Tetrahydrofurans	Oxacyclic compounds	Dialkyl ethers	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic heteropolycyclic compounds
+> <Substituents>
+Furanoid lignan	Furofuran lignan skeleton	Methoxyphenol	Phenoxy compound	Methoxybenzene	Phenol ether	Furofuran	Anisole	1-hydroxy-2-unsubstituted benzenoid	Phenol	Alkyl aryl ether	Benzenoid	Monocyclic benzene moiety	Tetrahydrofuran	Oxacycle	Organoheterocyclic compound	Ether	Dialkyl ether	Organic oxygen compound	Hydrocarbon derivative	Organooxygen compound	Aromatic heteropolycyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as furanoid lignans. These are lignans with a structure that contains either a tetrahydrofuran ring, a furan ring, or a furofuan ring system, that arises from the joining of the two phenylpropanoid units.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Chemical entities	Dialkyl ethers	Ethers	Furanoid lignans	Furofuran lignans	Furofurans	Hydrocarbon derivatives	Lignans, neolignans and related compounds	Methoxybenzenes	Methoxyphenols	Organic compounds	Organic oxygen compounds	Organoheterocyclic compounds	Organooxygen compounds	Oxacyclic compounds	Phenol ethers	Phenols	Phenoxy compounds	Tetrahydrofurans
+> <External Descriptors>
+
+$$$$
+C20O7
+Mrv1568 11161519542D          
+
+ 27 31  0  0  1  0            999 V2000
+    3.9311   -1.4728    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1299   -0.6721    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5359   -0.0996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7347    0.7011    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5275    0.9292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1407    1.2736    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3479    1.0454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6409    1.5164    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1553    2.2129    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3432    1.9857    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2884    1.1372    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0763    0.9338    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2964    0.1502    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5346   -0.2231    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0681    0.3664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8795    0.2174    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1491    0.2447    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7431   -0.3278    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2977    2.5052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0681    2.2100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7089    2.7295    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4793    2.4342    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6088    1.6195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5794    3.5443    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2203    4.0638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8091    3.8395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1682    3.3200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  8 12  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 13 14  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 11 15  1  1  0  0  0
+ 15 16  2  0  0  0  0
+ 13 17  1  0  0  0  0
+  7 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+  3 18  1  0  0  0  0
+ 10 19  1  6  0  0  0
+ 19 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 21 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 19 27  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=WSYSKRJIYLCUFU-XCDZQEORSA-N
+> <SMILES>
+COC1=C(O)C=C2[C@@H]3O[C@H]([C@H]4[C@@H]3[C@H](OC4=O)C2=C1)C1=CC(OC)=C(O)C=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Phenols
+> <Subclass>
+Methoxyphenols
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Methoxyphenols
+> <Alternative Parents>
+Indanes	Phenoxy compounds	Methoxybenzenes	Furofurans	Anisoles	1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Gamma butyrolactones	Oxolanes	Carboxylic acid esters	Oxacyclic compounds	Monocarboxylic acids and derivatives	Dialkyl ethers	Carbonyl compounds	Hydrocarbon derivatives	Organic oxides
+> <Molecular Framework>
+Aromatic heteropolycyclic compounds
+> <Substituents>
+Methoxyphenol	Indane	Anisole	Furofuran	Phenoxy compound	Phenol ether	Methoxybenzene	Alkyl aryl ether	1-hydroxy-2-unsubstituted benzenoid	Monocyclic benzene moiety	Gamma butyrolactone	Oxolane	Carboxylic acid ester	Lactone	Organoheterocyclic compound	Oxacycle	Carboxylic acid derivative	Monocarboxylic acid or derivatives	Dialkyl ether	Ether	Organooxygen compound	Carbonyl group	Hydrocarbon derivative	Organic oxygen compound	Organic oxide	Aromatic heteropolycyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as methoxyphenols. These are compounds containing a methoxy group attached to the benzene ring of a phenol moiety.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Carbonyl compounds	Carboxylic acid derivatives	Carboxylic acid esters	Carboxylic acids and derivatives	Chemical entities	Dialkyl ethers	Ethers	Furofurans	Gamma butyrolactones	Hydrocarbon derivatives	Indanes	Lactones	Methoxybenzenes	Methoxyphenols	Monocarboxylic acids and derivatives	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organoheterocyclic compounds	Organooxygen compounds	Oxacyclic compounds	Oxolanes	Phenol ethers	Phenols	Phenoxy compounds
+> <External Descriptors>
+phenols (CHEBI, CHEBI:86722)	methoxybenzene (CHEBI, CHEBI:86722)
+$$$$
+C22O8
+Mrv1568 11161523242D          
+
+ 30 32  0  0  1  0            999 V2000
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  5  3  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  1  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+  7 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 20 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 16 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  2  0  0  0  0
+  5 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 27 28  2  0  0  0  0
+ 27 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=ISHDPVONGBEOKE-PMACEKPBSA-N
+> <SMILES>
+COC(=O)[C@@H]1[C@@H](C2=CC(OC)=C(O)C=C2)C2=CC(O)=C(OC)C=C2C=C1C(=O)OC
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Lignans, neolignans and related compounds
+> <Class>
+Aryltetralin lignans
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Aryltetralin lignans
+> <Alternative Parents>
+Naphthalenecarboxylic acids	Methoxyphenols	Phenoxy compounds	Methoxybenzenes	Anisoles	Alkyl aryl ethers	1-hydroxy-2-unsubstituted benzenoids	Dicarboxylic acids and derivatives	Methyl esters	Enoate esters	Organic oxides	Hydrocarbon derivatives	Carbonyl compounds
+> <Molecular Framework>
+Aromatic homopolycyclic compounds
+> <Substituents>
+1-aryltetralin lignan	2-naphthalenecarboxylic acid	2-naphthalenecarboxylic acid or derivatives	Methoxyphenol	Naphthalene	Phenoxy compound	Anisole	Methoxybenzene	Phenol ether	1-hydroxy-2-unsubstituted benzenoid	Alkyl aryl ether	Phenol	Monocyclic benzene moiety	Benzenoid	Dicarboxylic acid or derivatives	Enoate ester	Alpha,beta-unsaturated carboxylic ester	Methyl ester	Carboxylic acid ester	Carboxylic acid derivative	Ether	Organooxygen compound	Organic oxygen compound	Carbonyl group	Hydrocarbon derivative	Organic oxide	Aromatic homopolycyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as aryltetralin lignans. These are lignans with a structure based on the 1-phenyltetralin skeleton.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Alpha,beta-unsaturated carboxylic esters	Anisoles	Aryltetralin lignans	Benzene and substituted derivatives	Benzenoids	Carbonyl compounds	Carboxylic acid derivatives	Carboxylic acid esters	Carboxylic acids and derivatives	Chemical entities	Dicarboxylic acids and derivatives	Enoate esters	Ethers	Hydrocarbon derivatives	Lignans, neolignans and related compounds	Methoxybenzenes	Methoxyphenols	Methyl esters	Naphthalenecarboxylic acids	Naphthalenecarboxylic acids and derivatives	Naphthalenes	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds
+> <External Descriptors>
+lignan (CHEBI, CHEBI:86729)
+$$$$
+C16O6
+Mrv1568 11161520532D          
+
+ 22 23  0  0  0  0            999 V2000
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  5  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 16 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 11 20  1  0  0  0  0
+  9 21  2  0  0  0  0
+  3 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=CRQZOHOBWXZXPI-UHFFFAOYSA-N
+> <SMILES>
+COC1=CC(C=O)=CC(OC2=C(OC)C=C(C=O)C=C2)=C1O
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Benzene and substituted derivatives
+> <Subclass>
+Diphenylethers
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Diphenylethers
+> <Alternative Parents>
+Diarylethers	Methoxyphenols	Hydroxybenzaldehydes	Phenoxy compounds	Methoxybenzenes	Benzoyl derivatives	Anisoles	Alkyl aryl ethers	Organic oxides	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Diphenylether	Diaryl ether	Methoxyphenol	Hydroxybenzaldehyde	Anisole	Benzaldehyde	Benzoyl	Phenoxy compound	Phenol ether	Methoxybenzene	Alkyl aryl ether	Phenol	Aryl-aldehyde	Ether	Organooxygen compound	Organic oxygen compound	Organic oxide	Aldehyde	Hydrocarbon derivative	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as diphenylethers. These are aromatic compounds containing two benzene rings linked to each other through an ether group.
+> <Ancestors>
+Aldehydes	Alkyl aryl ethers	Anisoles	Aryl-aldehydes	Benzaldehydes	Benzene and substituted derivatives	Benzenoids	Benzoyl derivatives	Carbonyl compounds	Chemical entities	Diarylethers	Diphenylethers	Ethers	Hydrocarbon derivatives	Hydroxybenzaldehydes	Methoxybenzenes	Methoxyphenols	Organic compounds	Organic oxides	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds
+> <External Descriptors>
+aromatic ether (CHEBI, CHEBI:86732)
+$$$$
+C23O8
+Mrv1568 11161519032D          
+
+ 31 32  0  0  0  0            999 V2000
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+  8 21  1  0  0  0  0
+  6 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  2  0  0  0  0
+ 24 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 25 28  2  0  0  0  0
+ 28 29  1  0  0  0  0
+ 28 30  1  0  0  0  0
+ 30 31  2  0  0  0  0
+ 23 31  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=ZAMFQISOMPRLDZ-HCYZRJLASA-N
+> <SMILES>
+CCOC(=O)C(\OC1=C(OC)C=C(\C=C\C(=O)OC)C=C1)=C\C1=CC(OC)=C(O)C=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Benzene and substituted derivatives
+> <Subclass>
+Phenylpyruvic acid derivatives
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Phenylpyruvic acid derivatives
+> <Alternative Parents>
+Cinnamic acid esters	Coumaric acids and derivatives	Phenoxyacetic acid derivatives	Methoxyphenols	Styrenes	Phenoxy compounds	Anisoles	Methoxybenzenes	1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Fatty acid esters	Dicarboxylic acids and derivatives	Methyl esters	Enoate esters	Hydrocarbon derivatives	Carbonyl compounds	Organic oxides
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Cinnamic acid or derivatives	Coumaric acid or derivatives	Hydroxycinnamic acid or derivatives	Cinnamic acid ester	Enol-phenylpyruvate	Phenoxyacetate	Methoxyphenol	Phenoxy compound	Anisole	Methoxybenzene	Phenol ether	Styrene	Alkyl aryl ether	1-hydroxy-2-unsubstituted benzenoid	Fatty acid ester	Phenol	Fatty acyl	Dicarboxylic acid or derivatives	Alpha,beta-unsaturated carboxylic ester	Enoate ester	Methyl ester	Carboxylic acid ester	Ether	Carboxylic acid derivative	Organooxygen compound	Hydrocarbon derivative	Organic oxide	Organic oxygen compound	Carbonyl group	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as phenylpyruvic acid derivatives. These are compounds containing a phenylpyruvic acid moiety, which consists of a phenyl group substituted at the second position by an pyruvic acid.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Alpha,beta-unsaturated carboxylic esters	Anisoles	Benzene and substituted derivatives	Benzenoids	Carbonyl compounds	Carboxylic acid derivatives	Carboxylic acid esters	Carboxylic acids and derivatives	Chemical entities	Cinnamic acid esters	Cinnamic acids and derivatives	Coumaric acids and derivatives	Dicarboxylic acids and derivatives	Enoate esters	Ethers	Fatty Acyls	Fatty acid esters	Hydrocarbon derivatives	Hydroxycinnamic acids and derivatives	Lipids and lipid-like molecules	Methoxybenzenes	Methoxyphenols	Methyl esters	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Phenoxyacetic acid derivatives	Phenylpropanoids and polyketides	Phenylpyruvic acid derivatives	Styrenes
+> <External Descriptors>
+2-oxo monocarboxylic acid (CHEBI, CHEBI:86736)
+$$$$
+C22O7
+Mrv1568 11161516252D          
+
+ 29 30  0  0  0  0            999 V2000
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+  8 19  1  0  0  0  0
+  6 20  2  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 23 26  2  0  0  0  0
+ 26 27  1  0  0  0  0
+ 26 28  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 21 29  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=PVJFOFGKYANIDD-SENCSOQXSA-N
+> <SMILES>
+CCOC(=O)C(\OC1=C(OC)C=C(\C=C\C=O)C=C1)=C\C1=CC(OC)=C(O)C=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Benzene and substituted derivatives
+> <Subclass>
+Phenylpyruvic acid derivatives
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Phenylpyruvic acid derivatives
+> <Alternative Parents>
+Cinnamic acid esters	Coumaric acids and derivatives	Phenoxyacetic acid derivatives	Cinnamaldehydes	Methoxyphenols	Styrenes	Phenoxy compounds	Anisoles	Methoxybenzenes	1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Fatty acid esters	Enals	Enoate esters	Monocarboxylic acids and derivatives	Hydrocarbon derivatives	Organic oxides	Aldehydes
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Hydroxycinnamic acid or derivatives	Enol-phenylpyruvate	Cinnamic acid ester	Coumaric acid or derivatives	Cinnamic acid or derivatives	Phenoxyacetate	Methoxyphenol	Cinnamaldehyde	Phenoxy compound	Anisole	Styrene	Phenol ether	Methoxybenzene	Alkyl aryl ether	1-hydroxy-2-unsubstituted benzenoid	Phenol	Fatty acid ester	Fatty acyl	Alpha,beta-unsaturated aldehyde	Alpha,beta-unsaturated carboxylic ester	Enoate ester	Enal	Carboxylic acid ester	Carboxylic acid derivative	Ether	Monocarboxylic acid or derivatives	Aldehyde	Organic oxygen compound	Hydrocarbon derivative	Carbonyl group	Organic oxide	Organooxygen compound	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as phenylpyruvic acid derivatives. These are compounds containing a phenylpyruvic acid moiety, which consists of a phenyl group substituted at the second position by an pyruvic acid.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Aldehydes	Alkyl aryl ethers	Alpha,beta-unsaturated aldehydes	Alpha,beta-unsaturated carbonyl compounds	Alpha,beta-unsaturated carboxylic esters	Anisoles	Benzene and substituted derivatives	Benzenoids	Carbonyl compounds	Carboxylic acid derivatives	Carboxylic acid esters	Carboxylic acids and derivatives	Chemical entities	Cinnamaldehydes	Cinnamic acid esters	Cinnamic acids and derivatives	Coumaric acids and derivatives	Enals	Enoate esters	Ethers	Fatty Acyls	Fatty acid esters	Hydrocarbon derivatives	Hydroxycinnamic acids and derivatives	Lipids and lipid-like molecules	Methoxybenzenes	Methoxyphenols	Monocarboxylic acids and derivatives	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Phenoxyacetic acid derivatives	Phenylpropanoids and polyketides	Phenylpyruvic acid derivatives	Styrenes
+> <External Descriptors>
+2-oxo monocarboxylic acid (CHEBI, CHEBI:86737)
+$$$$
+C24O9
+Mrv1568 11161521132D          
+
+ 33 35  0  0  0  0            999 V2000
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -6.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -6.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1447   -7.4250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -8.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -9.0750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -6.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  5  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 22 23  2  0  0  0  0
+ 14 23  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 24 25  2  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 25 28  1  0  0  0  0
+ 28 29  2  0  0  0  0
+ 11 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 30 31  1  0  0  0  0
+  9 32  2  0  0  0  0
+  3 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=MRXUAPVYRJEZDF-UHFFFAOYSA-N
+> <SMILES>
+COC1=CC(C=O)=CC(OC2=C(OC3=C(OC)C=C(CO)C=C3)C=C(C=O)C=C2OC)=C1O
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Benzene and substituted derivatives
+> <Subclass>
+Diphenylethers
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Diphenylethers
+> <Alternative Parents>
+Diarylethers	Methoxyphenols	Hydroxybenzaldehydes	Phenoxy compounds	Methoxybenzenes	Benzyl alcohols	Benzoyl derivatives	Anisoles	Alkyl aryl ethers	Primary alcohols	Organic oxides	Hydrocarbon derivatives	Aromatic alcohols
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Diphenylether	Diaryl ether	Methoxyphenol	Hydroxybenzaldehyde	Anisole	Benzaldehyde	Benzoyl	Benzyl alcohol	Phenoxy compound	Phenol ether	Methoxybenzene	Phenol	Aryl-aldehyde	Alkyl aryl ether	Ether	Aldehyde	Organooxygen compound	Organic oxygen compound	Alcohol	Primary alcohol	Aromatic alcohol	Organic oxide	Hydrocarbon derivative	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as diphenylethers. These are aromatic compounds containing two benzene rings linked to each other through an ether group.
+> <Ancestors>
+Alcohols and polyols	Aldehydes	Alkyl aryl ethers	Anisoles	Aromatic alcohols	Aryl-aldehydes	Benzaldehydes	Benzene and substituted derivatives	Benzenoids	Benzoyl derivatives	Benzyl alcohols	Carbonyl compounds	Chemical entities	Diarylethers	Diphenylethers	Ethers	Hydrocarbon derivatives	Hydroxybenzaldehydes	Methoxybenzenes	Methoxyphenols	Organic compounds	Organic oxides	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Primary alcohols
+> <External Descriptors>
+aromatic ether (CHEBI, CHEBI:86742)
+$$$$
+C28O10
+Mrv1568 06131713382D          
+
+ 38 39  0  0  1  0            999 V2000
+    3.2405   -6.2168    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4304   -6.3728    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8903   -5.7491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0802   -5.9050    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8101   -6.6846    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3502   -7.3082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0802   -8.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1604   -7.1523    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5401   -5.2814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8101   -4.5018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6203   -4.3459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8903   -3.5664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3502   -2.9427    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5401   -3.0986    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8101   -2.6309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3502   -2.0073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0802   -3.4105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6203   -2.1632    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4304   -2.0073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9705   -2.6309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7806   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0507   -1.6954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3207   -3.0986    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0802   -1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3502   -0.7600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8101   -0.1363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0802    0.6432    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5401    1.2668    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8101    2.0464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8903    0.7991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1604    1.5787    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9705    1.7346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2405    2.5141    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5106    1.1109    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4304    0.1755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1604   -0.6041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1604   -4.9696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 13 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 22 24  2  0  0  0  0
+ 19 25  1  1  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  2  0  0  0  0
+ 27 28  1  0  0  0  0
+ 28 29  1  0  0  0  0
+ 29 30  1  0  0  0  0
+ 28 31  2  0  0  0  0
+ 31 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 33 35  2  0  0  0  0
+ 31 36  1  0  0  0  0
+ 36 37  2  0  0  0  0
+ 26 37  1  0  0  0  0
+ 11 38  2  0  0  0  0
+  3 38  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=APTNLHJOYOLQJB-ZEQRLZLVSA-N
+> <SMILES>
+COC1=C(OC(C)=O)C=CC(C[C@@H](COC(C)=O)[C@H](COC(C)=O)CC2=CC(OC)=C(OC(C)=O)C=C2)=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Lignans, neolignans and related compounds
+> <Class>
+Dibenzylbutane lignans
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Dibenzylbutane lignans
+> <Alternative Parents>
+Tetracarboxylic acids and derivatives	Phenol esters	Phenoxy compounds	Methoxybenzenes	Anisoles	Alkyl aryl ethers	Carboxylic acid esters	Organic oxides	Hydrocarbon derivatives	Carbonyl compounds
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Dibenzylbutane lignan skeleton	Tetracarboxylic acid or derivatives	Phenol ester	Phenoxy compound	Anisole	Methoxybenzene	Phenol ether	Alkyl aryl ether	Monocyclic benzene moiety	Benzenoid	Carboxylic acid ester	Carboxylic acid derivative	Ether	Organic oxygen compound	Organooxygen compound	Carbonyl group	Hydrocarbon derivative	Organic oxide	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as dibenzylbutane lignans. These are lignan compounds containing a 2,3-dibenzylbutane moiety.
+> <Ancestors>
+Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Carbonyl compounds	Carboxylic acid derivatives	Carboxylic acid esters	Carboxylic acids and derivatives	Chemical entities	Dibenzylbutane lignans	Ethers	Hydrocarbon derivatives	Lignans, neolignans and related compounds	Methoxybenzenes	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organooxygen compounds	Phenol esters	Phenol ethers	Phenoxy compounds	Tetracarboxylic acids and derivatives
+> <External Descriptors>
+
+$$$$
+C17O6
+Mrv1568 06261715412D          
+
+ 23 24  0  0  1  0            999 V2000
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8579   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -6.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  4  0  0  0  0
+  4  5  4  0  0  0  0
+  5  6  4  0  0  0  0
+  6  7  4  0  0  0  0
+  7  8  4  0  0  0  0
+  3  8  4  0  0  0  0
+  8  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 12 15  1  6  0  0  0
+ 15 16  4  0  0  0  0
+ 16 17  4  0  0  0  0
+ 17 18  4  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  4  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 20 23  4  0  0  0  0
+ 15 23  4  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=DFUOJBWSSSODTR-PXAZEXFGSA-N
+> <SMILES>
+COc1cc(ccc1O)[C@H](O)[C@H](CO)c1ccc(O)c(OC)c1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Phenylpropanoids and polyketides
+> <Class>
+Stilbenes
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Stilbenes
+> <Alternative Parents>
+Methoxyphenols	Phenoxy compounds	Methoxybenzenes	Anisoles	Alkyl aryl ethers	1-hydroxy-2-unsubstituted benzenoids	Secondary alcohols	Primary alcohols	Hydrocarbon derivatives	Aromatic alcohols
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Stilbene	Methoxyphenol	Phenoxy compound	Anisole	Methoxybenzene	Phenol ether	1-hydroxy-2-unsubstituted benzenoid	Alkyl aryl ether	Phenol	Benzenoid	Monocyclic benzene moiety	Secondary alcohol	Ether	Primary alcohol	Alcohol	Aromatic alcohol	Hydrocarbon derivative	Organic oxygen compound	Organooxygen compound	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as stilbenes. These are organic compounds containing a 1,2-diphenylethylene moiety. Stilbenes (C6-C2-C6 ) are derived from the common phenylpropene (C6-C3) skeleton building block. The introduction of one or more hydroxyl groups  to a phenyl ring lead to stilbenoids.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alcohols and polyols	Alkyl aryl ethers	Anisoles	Aromatic alcohols	Benzene and substituted derivatives	Benzenoids	Chemical entities	Ethers	Hydrocarbon derivatives	Methoxybenzenes	Methoxyphenols	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Phenylpropanoids and polyketides	Primary alcohols	Secondary alcohols	Stilbenes
+> <External Descriptors>
+
+$$$$
+C17O5
+Mrv1568 12181517492D          
+
+ 22 23  0  0  0  0            999 V2000
+    4.2868   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 16 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+ 14 22  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=BFNVOQPVGCQUBU-LCYFTJDESA-N
+> <SMILES>
+COC1=CC=CC=C1O\C(C=O)=C/C1=CC(OC)=C(O)C=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Phenols
+> <Subclass>
+Methoxyphenols
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Methoxyphenols
+> <Alternative Parents>
+Cinnamaldehydes	Phenoxy compounds	Methoxybenzenes	Anisoles	Alkyl aryl ethers	1-hydroxy-2-unsubstituted benzenoids	Enals	Organic oxides	Hydrocarbon derivatives	Aldehydes
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Methoxyphenol	Cinnamaldehyde	Phenoxy compound	Anisole	Methoxybenzene	Phenol ether	1-hydroxy-2-unsubstituted benzenoid	Alkyl aryl ether	Monocyclic benzene moiety	Alpha,beta-unsaturated aldehyde	Enal	Ether	Carbonyl group	Organooxygen compound	Hydrocarbon derivative	Organic oxide	Organic oxygen compound	Aldehyde	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as methoxyphenols. These are compounds containing a methoxy group attached to the benzene ring of a phenol moiety.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Aldehydes	Alkyl aryl ethers	Alpha,beta-unsaturated aldehydes	Alpha,beta-unsaturated carbonyl compounds	Anisoles	Benzene and substituted derivatives	Benzenoids	Carbonyl compounds	Chemical entities	Cinnamaldehydes	Enals	Ethers	Hydrocarbon derivatives	Methoxybenzenes	Methoxyphenols	Organic compounds	Organic oxides	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Phenylpropanoids and polyketides
+> <External Descriptors>
+phenols (CHEBI, CHEBI:86848)	methoxybenzene (CHEBI, CHEBI:86848)
+$$$$
+C15O3S2
+Mrv1568 12181503412D          
+
+ 20 21  0  0  0  0            999 V2000
+   -1.4087    0.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5837    0.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1712   -0.6979    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538   -0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -0.0305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8838    0.7541    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0768    0.9256    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1781    1.7103    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.1271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.9521    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.3646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -0.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668    0.1271    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668   -1.5229    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7812   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378   -1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233   -1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387   -1.3654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+  9 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+  4 20  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=BJCBXIFGKYUMSG-UHFFFAOYSA-N
+> <SMILES>
+CCSC1=C(SCC)C2=C(OC)C(O)=C(OC)C=C2C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Indenes and isoindenes
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Indenes and isoindenes
+> <Alternative Parents>
+Anisoles	Phenols	Alkyl aryl ethers	Thioenol ethers	Sulfenyl compounds	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homopolycyclic compounds
+> <Substituents>
+Indene	Phenol ether	Anisole	Phenol	Alkyl aryl ether	Thioenolether	Sulfenyl compound	Ether	Organic oxygen compound	Hydrocarbon derivative	Organosulfur compound	Organooxygen compound	Aromatic homopolycyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as indenes and isoindenes. These are compounds containing an indene moiety(which consists of a cyclopentadiene fused to a benzene ring), or a isoindene moiety (which consists of a cyclopentadiene fused to cyclohexadiene ring).
+> <Ancestors>
+Alkyl aryl ethers	Anisoles	Benzenoids	Chemical entities	Ethers	Hydrocarbon derivatives	Indenes and isoindenes	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Organosulfur compounds	Phenol ethers	Phenols	Sulfenyl compounds	Thioenol ethers	Thioethers
+> <External Descriptors>
+indene (CHEBI, CHEBI:86860)
+$$$$
+C10O2
+Mrv1568 07021722332D          
+
+ 12 13  0  0  0  0            999 V2000
+    4.0668    3.1729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668    2.3479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3523    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0668    0.6979    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    0.6979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.1104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    0.8555    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6538    1.5229    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1387    2.1904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9233    1.9354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6378    2.3479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  3 12  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=IBNVXYBXIIZRJQ-UHFFFAOYSA-N
+> <SMILES>
+COC1=C(O)C=C2CCCC2=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Indanes
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Indanes
+> <Alternative Parents>
+Anisoles	Alkyl aryl ethers	1-hydroxy-2-unsubstituted benzenoids	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homopolycyclic compounds
+> <Substituents>
+Indane	Anisole	1-hydroxy-2-unsubstituted benzenoid	Alkyl aryl ether	Ether	Organic oxygen compound	Hydrocarbon derivative	Organooxygen compound	Aromatic homopolycyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as indanes. These are compounds containing an indane moiety, which consists of a cyclopentane fused to a benzene ring.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Anisoles	Benzenoids	Chemical entities	Ethers	Hydrocarbon derivatives	Indanes	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols
+> <External Descriptors>
+aromatic ether (CHEBI, CHEBI:86574)	phenols (CHEBI, CHEBI:86574)	indanes (CHEBI, CHEBI:86574)
+$$$$
+C21O7
+Mrv1568 02111621552D          
+
+ 28 30  0  0  1  0            999 V2000
+    2.5645    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9934    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7079   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7079   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4223   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4223   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2789   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7798    1.0799    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2949    0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7798   -0.2549    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5249   -1.0396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0769   -1.6527    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4699    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0574   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7676   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1801   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7676   -1.7309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1801    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0051    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7676    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1801    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7676    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0574    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  3 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 15 16  1  6  0  0  0
+ 16 17  1  0  0  0  0
+ 14 18  1  1  0  0  0
+ 18 19  2  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 20 23  2  0  0  0  0
+ 23 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 26 27  1  0  0  0  0
+ 25 28  2  0  0  0  0
+ 18 28  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=SGRRPSBKBJVKJE-BMSLLPBFSA-N
+> <SMILES>
+COC1=CC(\C=C\CO)=CC2=C1O[C@@H]([C@H]2CO)C1=CC(OC)=C(O)C(OC)=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Phenylpropanoids and polyketides
+> <Class>
+2-arylbenzofuran flavonoids
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+2-arylbenzofuran flavonoids
+> <Alternative Parents>
+Lignans, neolignans and related compounds	Methoxyphenols	Dimethoxybenzenes	Cinnamyl alcohols	Coumarans	Benzofurans	Styrenes	Phenoxy compounds	Anisoles	Alkyl aryl ethers	Oxacyclic compounds	Primary alcohols	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic heteropolycyclic compounds
+> <Substituents>
+2-arylbenzofuran flavonoid	Neolignan skeleton	Cinnamyl alcohol	Methoxyphenol	Dimethoxybenzene	M-dimethoxybenzene	Coumaran	Benzofuran	Anisole	Styrene	Methoxybenzene	Phenol ether	Phenoxy compound	Phenol	Alkyl aryl ether	Benzenoid	Monocyclic benzene moiety	Organoheterocyclic compound	Oxacycle	Ether	Hydrocarbon derivative	Alcohol	Organooxygen compound	Primary alcohol	Organic oxygen compound	Aromatic heteropolycyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as 2-arylbenzofuran flavonoids. These are phenylpropanoids containing the 2-phenylbenzofuran moiety.
+> <Ancestors>
+2-arylbenzofuran flavonoids	Alcohols and polyols	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Benzofurans	Chemical entities	Cinnamyl alcohols	Coumarans	Dimethoxybenzenes	Ethers	Hydrocarbon derivatives	Lignans, neolignans and related compounds	Methoxybenzenes	Methoxyphenols	Organic compounds	Organic oxygen compounds	Organoheterocyclic compounds	Organooxygen compounds	Oxacyclic compounds	Phenol ethers	Phenols	Phenoxy compounds	Phenylpropanoids and polyketides	Primary alcohols	Styrenes
+> <External Descriptors>
+
+$$$$
+C7O3
+Mrv1568 12281610302D          
+
+ 10 10  0  0  0  0            999 V2000
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=FJKROLUGYXJWQN-UHFFFAOYSA-N
+> <SMILES>
+OC(=O)C1=CC=C(O)C=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Benzene and substituted derivatives
+> <Subclass>
+Benzoic acids and derivatives
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Hydroxybenzoic acid derivatives
+> <Alternative Parents>
+Benzoic acids	Benzoyl derivatives	1-hydroxy-2-unsubstituted benzenoids	Monocarboxylic acids and derivatives	Carboxylic acids	Organooxygen compounds	Organic oxides	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Hydroxybenzoic acid	Benzoic acid	Benzoyl	1-hydroxy-2-unsubstituted benzenoid	Phenol	Monocarboxylic acid or derivatives	Carboxylic acid	Carboxylic acid derivative	Organic oxygen compound	Organic oxide	Hydrocarbon derivative	Organooxygen compound	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as hydroxybenzoic acid derivatives. These are compounds containing a hydroxybenzoic acid (or a derivative), which is a benzene ring bearing a carboxyl and a hydroxyl groups.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Benzene and substituted derivatives	Benzenoids	Benzoic acids	Benzoic acids and derivatives	Benzoyl derivatives	Carboxylic acids	Carboxylic acids and derivatives	Chemical entities	Hydrocarbon derivatives	Hydroxybenzoic acid derivatives	Monocarboxylic acids and derivatives	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organooxygen compounds	Phenols
+> <External Descriptors>
+monohydroxybenzoic acid (CHEBI, CHEBI:30763)
+$$$$
+C16O8
+Mrv1568 12281610242D          
+
+ 24 25  0  0  1  0            999 V2000
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  6  5  1  6  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  6  0  0  0
+  9 10  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+ 11 13  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 13 15  1  0  0  0  0
+  6 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+  4 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 19 24  2  0  0  0  0
+  3 24  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=SFLMUHDGSQZDOW-FAOXUISGSA-N
+> <SMILES>
+COC1=C(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C=CC(\C=C\CO)=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Organic oxygen compounds
+> <Class>
+Organooxygen compounds
+> <Subclass>
+Carbohydrates and carbohydrate conjugates
+> <Intermediate Nodes>
+Glycosyl compounds
+> <Direct Parent>
+Phenolic glycosides
+> <Alternative Parents>
+O-glycosyl compounds	Cinnamyl alcohols	Styrenes	Phenoxy compounds	Methoxybenzenes	Anisoles	Alkyl aryl ethers	Oxanes	Monosaccharides	Secondary alcohols	Polyols	Oxacyclic compounds	Acetals	Primary alcohols	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic heteromonocyclic compounds
+> <Substituents>
+Phenolic glycoside	O-glycosyl compound	Cinnamyl alcohol	Phenoxy compound	Anisole	Methoxybenzene	Styrene	Phenol ether	Alkyl aryl ether	Monocyclic benzene moiety	Monosaccharide	Benzenoid	Oxane	Secondary alcohol	Ether	Organoheterocyclic compound	Acetal	Oxacycle	Polyol	Hydrocarbon derivative	Alcohol	Primary alcohol	Aromatic heteromonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as phenolic glycosides. These are organic compounds containing a phenolic structure attached to a glycosyl moiety. Some examples of phenolic structures include lignans, and flavonoids. Among the sugar units found in natural glycosides are D-glucose, L-Fructose, and L rhamnose.
+> <Ancestors>
+Acetals	Alcohols and polyols	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Carbohydrates and carbohydrate conjugates	Chemical entities	Cinnamyl alcohols	Ethers	Glycosyl compounds	Hydrocarbon derivatives	Methoxybenzenes	Monosaccharides	O-glycosyl compounds	Organic compounds	Organic oxygen compounds	Organoheterocyclic compounds	Organooxygen compounds	Oxacyclic compounds	Oxanes	Phenol ethers	Phenolic glycosides	Phenoxy compounds	Phenylpropanoids and polyketides	Polyols	Primary alcohols	Secondary alcohols	Styrenes
+> <External Descriptors>
+aromatic ether (CHEBI, CHEBI:16220)	monosaccharide derivative (CHEBI, CHEBI:16220)	cinnamyl alcohol beta-D-glucoside (CHEBI, CHEBI:16220)	Coniferyl alcohol derivatives (KEGG, C00761)
+$$$$
+C17O9
+Mrv1568 12281608312D          
+
+ 26 27  0  0  1  0            999 V2000
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.6500    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -2.8875    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -4.1250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -2.4750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -5.0013   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -1.6500    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -5.0013   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+  3 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 16 15  1  6  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  6  0  0  0
+ 19 20  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 21 22  1  1  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  1  6  0  0  0
+ 23 25  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 25 26  1  1  0  0  0
+M  END
+> <InChIKey>
+InChIKey=QJVXKWHHAMZTBY-GCPOEHJPSA-N
+> <SMILES>
+COC1=CC(\C=C\CO)=CC(OC)=C1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Organic oxygen compounds
+> <Class>
+Organooxygen compounds
+> <Subclass>
+Carbohydrates and carbohydrate conjugates
+> <Intermediate Nodes>
+Glycosyl compounds
+> <Direct Parent>
+Phenolic glycosides
+> <Alternative Parents>
+O-glycosyl compounds	Dimethoxybenzenes	Cinnamyl alcohols	Styrenes	Phenoxy compounds	Anisoles	Alkyl aryl ethers	Oxanes	Monosaccharides	Secondary alcohols	Polyols	Oxacyclic compounds	Acetals	Primary alcohols	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic heteromonocyclic compounds
+> <Substituents>
+Phenolic glycoside	O-glycosyl compound	Cinnamyl alcohol	Dimethoxybenzene	M-dimethoxybenzene	Methoxybenzene	Anisole	Phenoxy compound	Styrene	Phenol ether	Alkyl aryl ether	Monocyclic benzene moiety	Monosaccharide	Benzenoid	Oxane	Secondary alcohol	Oxacycle	Ether	Acetal	Organoheterocyclic compound	Polyol	Alcohol	Hydrocarbon derivative	Primary alcohol	Aromatic heteromonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as phenolic glycosides. These are organic compounds containing a phenolic structure attached to a glycosyl moiety. Some examples of phenolic structures include lignans, and flavonoids. Among the sugar units found in natural glycosides are D-glucose, L-Fructose, and L rhamnose.
+> <Ancestors>
+Acetals	Alcohols and polyols	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Carbohydrates and carbohydrate conjugates	Chemical entities	Cinnamyl alcohols	Dimethoxybenzenes	Ethers	Glycosyl compounds	Hydrocarbon derivatives	Methoxybenzenes	Monosaccharides	O-glycosyl compounds	Organic compounds	Organic oxygen compounds	Organoheterocyclic compounds	Organooxygen compounds	Oxacyclic compounds	Oxanes	Phenol ethers	Phenolic glycosides	Phenoxy compounds	Phenylpropanoids and polyketides	Polyols	Primary alcohols	Secondary alcohols	Styrenes
+> <External Descriptors>
+beta-D-glucoside (CHEBI, CHEBI:9380)	monosaccharide derivative (CHEBI, CHEBI:9380)	primary alcohol (CHEBI, CHEBI:9380)	dimethoxybenzene (CHEBI, CHEBI:9380)	Sinapate derivatives (KEGG, C01533)
+$$$$
+C13O9
+Mrv1568 12281611022D          
+
+ 22 22  0  0  1  0            999 V2000
+    2.1434    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  6  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  1  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+  8 13  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+ 13 18  1  0  0  0  0
+  5 18  1  0  0  0  0
+ 18 19  1  1  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 20 22  2  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=MJOQJPYNENPSSS-XQHKEYJVSA-N
+> <SMILES>
+CC(=O)O[C@@H]1CO[C@@H](OC(C)=O)[C@H](OC(C)=O)[C@H]1OC(C)=O
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Organic acids and derivatives
+> <Class>
+Carboxylic acids and derivatives
+> <Subclass>
+Tetracarboxylic acids and derivatives
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Tetracarboxylic acids and derivatives
+> <Alternative Parents>
+Oxanes	Monosaccharides	Carboxylic acid esters	Oxacyclic compounds	Acetals	Organic oxides	Hydrocarbon derivatives	Carbonyl compounds
+> <Molecular Framework>
+Aliphatic heteromonocyclic compounds
+> <Substituents>
+Tetracarboxylic acid or derivatives	Oxane	Monosaccharide	Carboxylic acid ester	Oxacycle	Organoheterocyclic compound	Acetal	Organic oxygen compound	Organic oxide	Hydrocarbon derivative	Organooxygen compound	Carbonyl group	Aliphatic heteromonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as tetracarboxylic acids and derivatives. These are carboxylic acids containing exactly four carboxyl groups.
+> <Ancestors>
+Acetals	Carbohydrates and carbohydrate conjugates	Carbonyl compounds	Carboxylic acid derivatives	Carboxylic acid esters	Carboxylic acids and derivatives	Chemical entities	Ethers	Hydrocarbon derivatives	Monosaccharides	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organoheterocyclic compounds	Organooxygen compounds	Oxacyclic compounds	Oxanes	Tetracarboxylic acids and derivatives
+> <External Descriptors>
+organooxygen compound (CHEBI, CHEBI:86589)
+$$$$
+C15O7
+Mrv1568 05161721572D          
+
+ 22 23  0  0  1  0            999 V2000
+    0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -6.6000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -4.9500    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -5.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0000   -4.1250    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10  9  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  6  0  0  0
+ 17 19  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 19 20  1  1  0  0  0
+  8 21  1  0  0  0  0
+ 21 22  2  0  0  0  0
+  5 22  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=CRVXJSNSTGEXDX-HHMSBIESSA-N
+> <SMILES>
+OC\C=C\C1=CC=C(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)C=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Organic oxygen compounds
+> <Class>
+Organooxygen compounds
+> <Subclass>
+Carbohydrates and carbohydrate conjugates
+> <Intermediate Nodes>
+Glycosyl compounds
+> <Direct Parent>
+Phenolic glycosides
+> <Alternative Parents>
+O-glycosyl compounds	Cinnamyl alcohols	Styrenes	Phenoxy compounds	Phenol ethers	Oxanes	Monosaccharides	Secondary alcohols	Polyols	Oxacyclic compounds	Acetals	Primary alcohols	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic heteromonocyclic compounds
+> <Substituents>
+Phenolic glycoside	O-glycosyl compound	Cinnamyl alcohol	Phenoxy compound	Phenol ether	Styrene	Monocyclic benzene moiety	Monosaccharide	Oxane	Benzenoid	Secondary alcohol	Organoheterocyclic compound	Oxacycle	Polyol	Acetal	Alcohol	Hydrocarbon derivative	Primary alcohol	Aromatic heteromonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as phenolic glycosides. These are organic compounds containing a phenolic structure attached to a glycosyl moiety. Some examples of phenolic structures include lignans, and flavonoids. Among the sugar units found in natural glycosides are D-glucose, L-Fructose, and L rhamnose.
+> <Ancestors>
+Acetals	Alcohols and polyols	Benzene and substituted derivatives	Benzenoids	Carbohydrates and carbohydrate conjugates	Chemical entities	Cinnamyl alcohols	Ethers	Glycosyl compounds	Hydrocarbon derivatives	Monosaccharides	O-glycosyl compounds	Organic compounds	Organic oxygen compounds	Organoheterocyclic compounds	Organooxygen compounds	Oxacyclic compounds	Oxanes	Phenol ethers	Phenolic glycosides	Phenoxy compounds	Phenylpropanoids and polyketides	Polyols	Primary alcohols	Secondary alcohols	Styrenes
+> <External Descriptors>
+glycoside (CHEBI, CHEBI:86915)	Paracoumaryl alcohol derivatives (KEGG, C05855)
+$$$$
+C17O3
+Mrv1568 11171514332D          
+
+ 20 21  0  0  0  0            999 V2000
+    0.7145   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -2.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  7 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 15 20  2  0  0  0  0
+  3 20  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=YZKVLNRJHHHUMC-VMPITWQZSA-N
+> <SMILES>
+COC1=C(OCC2=CC=CC=C2)C=CC(\C=C\CO)=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Phenylpropanoids and polyketides
+> <Class>
+Cinnamyl alcohols
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Cinnamyl alcohols
+> <Alternative Parents>
+Styrenes	Phenoxy compounds	Methoxybenzenes	Anisoles	Alkyl aryl ethers	Primary alcohols	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Cinnamyl alcohol	Anisole	Phenoxy compound	Phenol ether	Styrene	Methoxybenzene	Alkyl aryl ether	Benzenoid	Monocyclic benzene moiety	Ether	Primary alcohol	Alcohol	Organooxygen compound	Hydrocarbon derivative	Organic oxygen compound	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as cinnamyl alcohols. These are aromatic alcohols containing a 3-phenylprop-2-en-1-ol moiety.
+> <Ancestors>
+Alcohols and polyols	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Chemical entities	Cinnamyl alcohols	Ethers	Hydrocarbon derivatives	Methoxybenzenes	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenoxy compounds	Phenylpropanoids and polyketides	Primary alcohols	Styrenes
+> <External Descriptors>
+phenylpropanoid (CHEBI, CHEBI:86785)
+$$$$
+C10O4
+Mrv1568 02111621452D          
+
+ 14 14  0  0  1  0            999 V2000
+    1.4289    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  3  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  1  6  0  0  0
+M  END
+> <InChIKey>
+InChIKey=PZKYCBMLUGVAGH-WKEGUHRASA-N
+> <SMILES>
+COC1=C(O)C=CC(=C1)[C@@H](O)[C@H](C)O
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Phenols
+> <Subclass>
+Methoxyphenols
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Methoxyphenols
+> <Alternative Parents>
+Phenylpropanes	Phenoxy compounds	Methoxybenzenes	Anisoles	Alkyl aryl ethers	1-hydroxy-2-unsubstituted benzenoids	Secondary alcohols	1,2-diols	Hydrocarbon derivatives	Aromatic alcohols
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Methoxyphenol	Phenylpropane	Anisole	Phenoxy compound	Phenol ether	Methoxybenzene	1-hydroxy-2-unsubstituted benzenoid	Alkyl aryl ether	Monocyclic benzene moiety	Secondary alcohol	1,2-diol	Ether	Organooxygen compound	Alcohol	Aromatic alcohol	Hydrocarbon derivative	Organic oxygen compound	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as methoxyphenols. These are compounds containing a methoxy group attached to the benzene ring of a phenol moiety.
+> <Ancestors>
+1,2-diols	1-hydroxy-2-unsubstituted benzenoids	Alcohols and polyols	Alkyl aryl ethers	Anisoles	Aromatic alcohols	Benzene and substituted derivatives	Benzenoids	Chemical entities	Ethers	Hydrocarbon derivatives	Methoxybenzenes	Methoxyphenols	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Phenylpropanes	Polyols	Secondary alcohols
+> <External Descriptors>
+
+$$$$
+Q6691888-164
+Mrv1568 12291605592D          
+
+ 13 13  0  0  0  0            999 V2000
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  6  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  4 13  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=YXXOJIJNHQBMMD-UHFFFAOYSA-N
+> <SMILES>
+COCC1=CC(OC)=C(OC)C=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Benzene and substituted derivatives
+> <Subclass>
+Methoxybenzenes
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Dimethoxybenzenes
+> <Alternative Parents>
+Benzylethers	Phenoxy compounds	Anisoles	Alkyl aryl ethers	Dialkyl ethers	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+O-dimethoxybenzene	Dimethoxybenzene	Benzylether	Phenoxy compound	Phenol ether	Anisole	Alkyl aryl ether	Ether	Dialkyl ether	Organic oxygen compound	Hydrocarbon derivative	Organooxygen compound	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as dimethoxybenzenes. These are organic aromatic compounds containing a monocyclic benzene moiety carrying exactly two methoxy groups.
+> <Ancestors>
+Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Benzylethers	Chemical entities	Dialkyl ethers	Dimethoxybenzenes	Ethers	Hydrocarbon derivatives	Methoxybenzenes	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenoxy compounds
+> <External Descriptors>
+dimethoxybenzene (CHEBI, CHEBI:86961)
+$$$$
+Q6691888-169
+Mrv1568 08291605572D          
+
+ 16 16  0  0  0  0            999 V2000
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 11 14  2  0  0  0  0
+  3 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=HZDDMDAKGIRCPP-SNAWJCMRSA-N
+> <SMILES>
+COC1=CC(\C=C\CO)=CC(OC)=C1OC
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Phenylpropanoids and polyketides
+> <Class>
+Cinnamyl alcohols
+> <Subclass>
+
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Cinnamyl alcohols
+> <Alternative Parents>
+Styrenes	Phenoxy compounds	Methoxybenzenes	Anisoles	Alkyl aryl ethers	Primary alcohols	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Cinnamyl alcohol	Anisole	Phenoxy compound	Phenol ether	Styrene	Methoxybenzene	Alkyl aryl ether	Benzenoid	Monocyclic benzene moiety	Ether	Primary alcohol	Alcohol	Organooxygen compound	Hydrocarbon derivative	Organic oxygen compound	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as cinnamyl alcohols. These are aromatic alcohols containing a 3-phenylprop-2-en-1-ol moiety.
+> <Ancestors>
+Alcohols and polyols	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Chemical entities	Cinnamyl alcohols	Ethers	Hydrocarbon derivatives	Methoxybenzenes	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenoxy compounds	Phenylpropanoids and polyketides	Primary alcohols	Styrenes
+> <External Descriptors>
+phenylpropanoid (CHEBI, CHEBI:86546)	primary alcohol (CHEBI, CHEBI:86546)	methoxybenzene (CHEBI, CHEBI:86546)
+$$$$
+C18O4
+Mrv1568 11161520412D          
+
+ 22 23  0  0  0  0            999 V2000
+    2.8579   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -6.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -8.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -9.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -9.9000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145  -10.3125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -8.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -9.0750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -7.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -7.4250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 13 21  1  0  0  0  0
+  8 22  2  0  0  0  0
+  3 22  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=KKBPAPCYIJKREN-GGWOSOGESA-N
+> <SMILES>
+COC1=C(O)C=CC(\C=C\C=C\C2=CC(OC)=C(O)C=C2)=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Phenols
+> <Subclass>
+Methoxyphenols
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Methoxyphenols
+> <Alternative Parents>
+Styrenes	Phenoxy compounds	Methoxybenzenes	Anisoles	Alkyl aryl ethers	1-hydroxy-2-unsubstituted benzenoids	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Methoxyphenol	Phenoxy compound	Methoxybenzene	Styrene	Phenol ether	Anisole	1-hydroxy-2-unsubstituted benzenoid	Alkyl aryl ether	Monocyclic benzene moiety	Ether	Organic oxygen compound	Hydrocarbon derivative	Organooxygen compound	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as methoxyphenols. These are compounds containing a methoxy group attached to the benzene ring of a phenol moiety.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Chemical entities	Ethers	Hydrocarbon derivatives	Methoxybenzenes	Methoxyphenols	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Styrenes
+> <External Descriptors>
+phenols (CHEBI, CHEBI:86708)	methoxybenzene (CHEBI, CHEBI:86708)
+$$$$
+C17O4
+Mrv1568 04111717162D          
+
+ 21 22  0  0  0  0            999 V2000
+    4.2868   -2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -2.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -4.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -6.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -5.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -4.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+ 15 20  1  0  0  0  0
+  8 21  2  0  0  0  0
+  3 21  1  0  0  0  0
+M  END
+> <InChIKey>
+InChIKey=LAAPRQODJPXAHC-AATRIKPKSA-N
+> <SMILES>
+COC1=C(O)C=CC(\C=C\COC(=O)C2=CC=CC=C2)=C1
+> <Kingdom>
+Organic compounds
+> <Superclass>
+Benzenoids
+> <Class>
+Benzene and substituted derivatives
+> <Subclass>
+Benzoic acids and derivatives
+> <Intermediate Nodes>
+
+> <Direct Parent>
+Benzoic acid esters
+> <Alternative Parents>
+Methoxyphenols	Styrenes	Phenoxy compounds	Methoxybenzenes	Benzoyl derivatives	Anisoles	Alkyl aryl ethers	1-hydroxy-2-unsubstituted benzenoids	Carboxylic acid esters	Monocarboxylic acids and derivatives	Organic oxides	Hydrocarbon derivatives
+> <Molecular Framework>
+Aromatic homomonocyclic compounds
+> <Substituents>
+Benzoate ester	Methoxyphenol	Phenoxy compound	Anisole	Methoxybenzene	Styrene	Phenol ether	Benzoyl	1-hydroxy-2-unsubstituted benzenoid	Alkyl aryl ether	Phenol	Carboxylic acid ester	Monocarboxylic acid or derivatives	Ether	Carboxylic acid derivative	Organic oxygen compound	Organooxygen compound	Hydrocarbon derivative	Organic oxide	Aromatic homomonocyclic compound
+> <Structure-based description>
+This compound belongs to the class of organic compounds known as benzoic acid esters. These are ester derivatives of benzoic acid.
+> <Ancestors>
+1-hydroxy-2-unsubstituted benzenoids	Alkyl aryl ethers	Anisoles	Benzene and substituted derivatives	Benzenoids	Benzoic acid esters	Benzoic acids and derivatives	Benzoyl derivatives	Carboxylic acid derivatives	Carboxylic acid esters	Carboxylic acids and derivatives	Chemical entities	Ethers	Hydrocarbon derivatives	Methoxybenzenes	Methoxyphenols	Monocarboxylic acids and derivatives	Organic acids and derivatives	Organic compounds	Organic oxides	Organic oxygen compounds	Organooxygen compounds	Phenol ethers	Phenols	Phenoxy compounds	Styrenes
+> <External Descriptors>
+phenols (CHEBI, CHEBI:86598)	monomethoxybenzene (CHEBI, CHEBI:86598)	benzoate ester (CHEBI, CHEBI:86598)
+$$$$
