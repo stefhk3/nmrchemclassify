@@ -47,6 +47,11 @@ test_set_hmbc=train_datagen.flow_from_directory('../classes/Superclass/hmbc/test
 test_set_hsqc=train_datagen.flow_from_directory('../classes/Superclass/hsqc/test',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical',shuffle=False)
 testing_generator = JoinedGenerator(test_set_hmbc, test_set_hsqc)
 
+hmbc_imgs, hmbc_targets = train_set_hmbc.next()
+hsqc_imgs, hsqc_targets = train_set_hsqc.next()
+hmbc_imgs_test, hmbc_targets_test = test_set_hmbc.next()
+hsqc_imgs_test, hsqc_targets_test = test_set_hsqc.next()
+
 hmbc_input = keras.Input(
     shape=(1133,791, 1), name="hmbc"
 ) 
@@ -85,9 +90,12 @@ model = keras.Model(
 
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
-model.fit_generator(generator=training_generator,  epochs=10)
+#Ensuring that our data match
+if(hmbc_targets.all() == hsqc_targets.all()):
+    model.fit(x=[hmbc_imgs, hsqc_imgs], y=hmbc_targets,  epochs=epochs)
+
 
 x_test, y_test = next(testing_generator)
-score = network.evaluate(x_test, y_test)
+score = network.evaluate([hmbc_imgs_test,hsqc_imgs_test], hmbc_targets_test)
 print('Test loss:', score[0])
 print('Test accuracy:', score[1])

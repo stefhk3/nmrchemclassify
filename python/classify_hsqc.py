@@ -21,8 +21,8 @@ def load_image(img_path, show=False):
 
 test_datagen=ImageDataGenerator(rescale=1./255)
 train_datagen=ImageDataGenerator(rescale=1./255)
-test_set=test_datagen.flow_from_directory('../classes/Superclass/hmbc/test',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical')
-train_set=train_datagen.flow_from_directory('../classes/Superclass/hmbc/train',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical')
+test_set=test_datagen.flow_from_directory('../classes/Superclass/hsqc/test',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical')
+train_set=train_datagen.flow_from_directory('../classes/Superclass/hsqc/train',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical')
 #build network
 network=models.Sequential()
 network.add(layers.Conv2D(32, 3, activation='relu', input_shape=(1133,791, 1)))
