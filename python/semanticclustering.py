@@ -11,9 +11,9 @@ from keras.preprocessing.image import ImageDataGenerator
 from keras.preprocessing import image
 
 #import matplotlib.pyplot as plt
-#from tqdm import tqdm
+from tqdm import tqdm
 
-num_classes = 11
+num_classes = 17
 input_shape = (1133,791, 3)
 
 test_datagen=ImageDataGenerator(rescale=1./255)
@@ -31,7 +31,7 @@ classes = list(train_set.class_indices)
 
 print(classes)
 
-target_size = 32  # Resize the input images.
+target_size = (1133,791)#32  # Resize the input images.
 representation_dim = 512  # The dimensions of the features vector.
 projection_units = 128  # The projection head of the representation learner.
 num_clusters = 20  # Number of clusters.
@@ -40,7 +40,7 @@ tune_encoder_during_clustering = False  # Freeze the encoder in the cluster lear
 
 data_preprocessing = keras.Sequential(
     [
-        layers.Resizing(target_size, target_size),
+        layers.Resizing(*target_size),
         layers.Normalization(),
     ]
 )
@@ -105,7 +105,7 @@ class RepresentationLearner(keras.Model):
         return [self.loss_tracker]
 
     def compute_contrastive_loss(self, feature_vectors, batch_size):
-        num_augmentations = tf.shape(feature_vectors)[0] // batch_size
+        num_augmentations = 8#tf.shape(feature_vectors)[0] // batch_size
         if self.l2_normalize:
             feature_vectors = tf.math.l2_normalize(feature_vectors, -1)
         # The logits shape is [num_augmentations * batch_size, num_augmentations * batch_size].
@@ -139,7 +139,7 @@ class RepresentationLearner(keras.Model):
         return self.projector(features)
 
     def train_step(self, inputs):
-        batch_size = tf.shape(inputs)[0]
+        batch_size = 8#tf.shape(inputs)[0]
         # Run the forward pass and compute the contrastive loss
         with tf.GradientTape() as tape:
             feature_vectors = self(inputs, training=True)
@@ -182,5 +182,40 @@ representation_learner.compile(
 history = representation_learner.fit(
     x=x_data,
     batch_size=512,
-    epochs=50,  # for better results, increase the number of epochs to 500.
+    epochs=5,  # for better results, increase the number of epochs to 500.
 )
+
+batch_size = 500
+# Get the feature vector representations of the images.
+feature_vectors = encoder.predict(x_data, batch_size=batch_size, verbose=1)
+# Normalize the feature vectores.
+feature_vectors = tf.math.l2_normalize(feature_vectors, -1)
+
+neighbours = []
+num_batches = feature_vectors.shape[0] // batch_size
+for batch_idx in tqdm(range(num_batches)):
+    start_idx = batch_idx * batch_size
+    end_idx = start_idx + batch_size
+    current_batch = feature_vectors[start_idx:end_idx]
+    # Compute the dot similarity.
+    similarities = tf.linalg.matmul(current_batch, feature_vectors, transpose_b=True)
+    # Get the indices of most similar vectors.
+    _, indices = tf.math.top_k(similarities, k=k_neighbours + 1, sorted=True)
+    # Add the indices to the neighbours.
+    neighbours.append(indices[..., 1:])
+
+neighbours = np.reshape(np.array(neighbours), (-1, k_neighbours))
+print(neighbours)
+nrows = 4
+ncols = k_neighbours + 1
+
+#plt.figure(figsize=(12, 12))
+position = 1
+for _ in range(nrows):
+    anchor_idx = np.random.choice(range(x_data.shape[0]))
+    neighbour_indicies = neighbours[anchor_idx]
+    indices = [anchor_idx] + neighbour_indicies.tolist()
+    for j in range(ncols):
+        print(classes[y_data[indices[j]][0]]+"  ")
+    print("\n")
+
