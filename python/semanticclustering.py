@@ -20,12 +20,12 @@ test_datagen=ImageDataGenerator(rescale=1./255)
 train_datagen=ImageDataGenerator(rescale=1./255)
 test_set=test_datagen.flow_from_directory('../classes/Superclass/hmbc/test',target_size=(1133,791),batch_size=8,color_mode='rgb',class_mode='categorical')
 train_set=train_datagen.flow_from_directory('../classes/Superclass/hmbc/train',target_size=(1133,791),batch_size=8,color_mode='rgb',class_mode='categorical')
-x_test, y_test = next(test_set)
-x_train, y_train = next(train_set)
-x_data = np.concatenate([x_train, x_test])
-y_data = np.concatenate([y_train, y_test])
+#x_test, y_test = next(test_set)
+#x_train, y_train = next(train_set)
+#x_data = np.concatenate([x_train, x_test])
+#y_data = np.concatenate([y_train, y_test])
 
-print("x_data shape:", x_data.shape, "- y_data shape:", y_data.shape)
+#print("x_data shape:", x_data.shape, "- y_data shape:", y_data.shape)
 
 classes = list(train_set.class_indices)
 
@@ -45,22 +45,22 @@ data_preprocessing = keras.Sequential(
     ]
 )
 # Compute the mean and the variance from the data for normalization.
-data_preprocessing.layers[-1].adapt(x_data)
+#data_preprocessing.layers[-1].adapt(x_data)
 
-data_augmentation = keras.Sequential(
-    [
-        layers.RandomTranslation(
-            height_factor=(-0.2, 0.2), width_factor=(-0.2, 0.2), fill_mode="nearest"
-        ),
-        layers.RandomFlip(mode="horizontal"),
-        layers.RandomRotation(
-            factor=0.15, fill_mode="nearest"
-        ),
-        layers.RandomZoom(
-            height_factor=(-0.3, 0.1), width_factor=(-0.3, 0.1), fill_mode="nearest"
-        )
-    ]
-)
+#data_augmentation = keras.Sequential(
+#    [
+#        layers.RandomTranslation(
+#            height_factor=(-0.2, 0.2), width_factor=(-0.2, 0.2), fill_mode="nearest"
+#        ),
+#        layers.RandomFlip(mode="horizontal"),
+#        layers.RandomRotation(
+#            factor=0.15, fill_mode="nearest"
+#        ),
+#        layers.RandomZoom(
+#            height_factor=(-0.3, 0.1), width_factor=(-0.3, 0.1), fill_mode="nearest"
+#        )
+#    ]
+#)
 
 def create_encoder(representation_dim):
     encoder = keras.Sequential(
@@ -129,10 +129,10 @@ class RepresentationLearner(keras.Model):
         # Preprocess the input images.
         preprocessed = data_preprocessing(inputs)
         # Create augmented versions of the images.
-        augmented = []
-        for _ in range(self.num_augmentations):
-            augmented.append(data_augmentation(preprocessed))
-        augmented = layers.Concatenate(axis=0)(augmented)
+        #augmented = []
+        #for _ in range(self.num_augmentations):
+        #    augmented.append(data_augmentation(preprocessed))
+        #augmented = layers.Concatenate(axis=0)(augmented)
         # Generate embedding representations of the images.
         features = self.encoder(inputs)
         # Apply projection head.
@@ -179,15 +179,15 @@ representation_learner.compile(
     optimizer=tfa.optimizers.AdamW(learning_rate=lr_scheduler, weight_decay=0.0001),
 )
 # Fit the model.
-history = representation_learner.fit(
-    x=x_data,
-    batch_size=512,
-    epochs=5,  # for better results, increase the number of epochs to 500.
-)
+history = representation_learner.fit(train_set, epochs=20, validation_data=test_set)
+#    x=x_data,
+#    batch_size=512,
+#    epochs=5,  # for better results, increase the number of epochs to 500.
+#)
 
 batch_size = 500
 # Get the feature vector representations of the images.
-feature_vectors = encoder.predict(x_data, batch_size=batch_size, verbose=1)
+feature_vectors = encoder.predict(train_set, verbose=1)
 # Normalize the feature vectores.
 feature_vectors = tf.math.l2_normalize(feature_vectors, -1)
 
@@ -212,7 +212,7 @@ ncols = k_neighbours + 1
 #plt.figure(figsize=(12, 12))
 position = 1
 for _ in range(nrows):
-    anchor_idx = np.random.choice(range(x_data.shape[0]))
+    anchor_idx = np.random.choice(range(8))#x_data.shape[0]))
     neighbour_indicies = neighbours[anchor_idx]
     indices = [anchor_idx] + neighbour_indicies.tolist()
     for j in range(ncols):
