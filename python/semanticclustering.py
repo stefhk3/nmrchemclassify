@@ -9,7 +9,7 @@ from tensorflow import keras
 from tensorflow.keras import layers
 from keras.preprocessing.image import ImageDataGenerator
 from keras.preprocessing import image
-
+import itertools
 #import matplotlib.pyplot as plt
 from tqdm import tqdm
 
@@ -105,7 +105,7 @@ class RepresentationLearner(keras.Model):
         return [self.loss_tracker]
 
     def compute_contrastive_loss(self, feature_vectors, batch_size):
-        num_augmentations = 8#tf.shape(feature_vectors)[0] // batch_size
+        num_augmentations = tf.shape(feature_vectors)[0] // batch_size
         if self.l2_normalize:
             feature_vectors = tf.math.l2_normalize(feature_vectors, -1)
         # The logits shape is [num_augmentations * batch_size, num_augmentations * batch_size].
@@ -139,7 +139,8 @@ class RepresentationLearner(keras.Model):
         return self.projector(features)
 
     def train_step(self, inputs):
-        batch_size = 8#tf.shape(inputs)[0]
+        inputs=inputs[0]
+        batch_size = tf.shape(inputs)[0]
         # Run the forward pass and compute the contrastive loss
         with tf.GradientTape() as tape:
             feature_vectors = self(inputs, training=True)
@@ -155,6 +156,7 @@ class RepresentationLearner(keras.Model):
         return {m.name: m.result() for m in self.metrics}
 
     def test_step(self, inputs):
+        inputs=inputs[0]
         batch_size = tf.shape(inputs)[0]
         feature_vectors = self(inputs, training=False)
         loss = self.compute_contrastive_loss(feature_vectors, batch_size)
@@ -179,7 +181,7 @@ representation_learner.compile(
     optimizer=tfa.optimizers.AdamW(learning_rate=lr_scheduler, weight_decay=0.0001),
 )
 # Fit the model.
-history = representation_learner.fit(train_set, epochs=20, validation_data=test_set)
+history = representation_learner.fit(train_set, epochs=1, validation_data=test_set)
 #    x=x_data,
 #    batch_size=512,
 #    epochs=5,  # for better results, increase the number of epochs to 500.
@@ -209,13 +211,23 @@ print(neighbours)
 nrows = 4
 ncols = k_neighbours + 1
 
-#plt.figure(figsize=(12, 12))
-position = 1
-for _ in range(nrows):
-    anchor_idx = np.random.choice(range(8))#x_data.shape[0]))
-    neighbour_indicies = neighbours[anchor_idx]
-    indices = [anchor_idx] + neighbour_indicies.tolist()
-    for j in range(ncols):
-        print(classes[y_data[indices[j]][0]]+"  ")
+classes=[]
+for x,y in train_set:
+    #print(y,"\n")
+    for onehot in y:
+       	classes.append(np.argmax(onehot))
+        #print(onehot)
+        #print(np.argmax(onehot))
+        print(len(classes))
+        if len(classes)>1000:
+             break
+    else:
+        continue  # only executed if the inner loop did NOT break
+    break  # only executed if the inner loop DID break
+
+for i in neighbours:
+    for j in i:
+        print(j," ", classes[j],", ")
     print("\n")
+
 
