@@ -144,5 +144,45 @@ nb_epochs = 10
 steps_per_epoch = 100
 hist = vxm_model.fit_generator(train_generator, epochs=nb_epochs, steps_per_epoch=steps_per_epoch, verbose=2);
 
+#test with some benzenoids
+val_generator = vxm_data_generator(imgsnp, batch_size = 1)
+val_input, _ = next(val_generator)
+val_pred = vxm_model.evaluate(val_input)
+print(val_pred)
+val_input, _ = next(val_generator)
+val_pred = vxm_model.evaluate(val_input)
+print(val_pred)
+val_input, _ = next(val_generator)
+val_pred = vxm_model.evaluate(val_input)
+print(val_pred)
+#and some other molecules
+imgs = []
+path = "/home/shk3/git/nmrchemclassify/classes/Superclass/hmbc/train/Organic oxygen compounds"
+valid_images = [".jpg",".gif",".png",".tga"]
+for f in os.listdir(path):
+    ext = os.path.splitext(f)[1]
+    if ext.lower() not in valid_images:
+        continue
+    imgorig=ImageOps.grayscale(Image.open(os.path.join(path,f)))
+    #print(imgorig.dtype)
+    img=np.array(imgorig)
+    pad_amount = ((175,170), (2,1))
+    img = np.pad(img, pad_amount, 'constant')
+    print(img.dtype)
+    img=img.astype('float')/255
+    #img=img[:, :, np.newaxis]
+    print(img.shape)
+    imgs.append(img)
 
+imgsnp = np.array(imgs)
+val_generator = vxm_data_generator(imgsnp, batch_size = 1)
+val_input, _ = next(val_generator)
+val_pred = vxm_model.evaluate(val_input)
+print(val_pred)
+val_input, _ = next(val_generator)
+val_pred = vxm_model.evaluate(val_input)
+print(val_pred)
+val_input, _ = next(val_generator)
+val_pred = vxm_model.evaluate(val_input)
+print(val_pred)
 
