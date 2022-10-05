@@ -40,11 +40,11 @@ class JoinedGenerator(keras.utils.Sequence):
 
 
 train_datagen=ImageDataGenerator(rescale=1./255)
-train_set_hmbc=train_datagen.flow_from_directory('../classes/Superclass/hmbc/train',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
-train_set_hsqc=train_datagen.flow_from_directory('../classes/Superclass/hsqc/train',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
+train_set_hmbc=train_datagen.flow_from_directory('../classesboth/Superclass/hmbc/train',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
+train_set_hsqc=train_datagen.flow_from_directory('../classesboth/Superclass/hsqc/train',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
 training_generator = JoinedGenerator(train_set_hmbc, train_set_hsqc)
-test_set_hmbc=train_datagen.flow_from_directory('../classes/Superclass/hmbc/test',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
-test_set_hsqc=train_datagen.flow_from_directory('../classes/Superclass/hsqc/test',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
+test_set_hmbc=train_datagen.flow_from_directory('../classesboth/Superclass/hmbc/test',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
+test_set_hsqc=train_datagen.flow_from_directory('../classesboth/Superclass/hsqc/test',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
 testing_generator = JoinedGenerator(test_set_hmbc, test_set_hsqc)
 
 hmbc_input = keras.Input(
