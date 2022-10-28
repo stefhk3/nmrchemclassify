@@ -1,0 +1,59 @@
+2022-10-26 21:20:31.814175: I tensorflow/compiler/jit/xla_cpu_device.cc:41] Not creating XLA devices, tf_xla_enable_xla_devices not set
+2022-10-26 21:20:31.814266: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE4.1 SSE4.2 AVX AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-10-26 21:20:31.815140: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+input shape:  (None, 1136, 1136, 2)
+output shape: (None, 1136, 1136, 16)
+displacement tensor: (None, 1136, 1136, 2)
+input shape:  (None, 1136, 1136, 1), (None, 1136, 1136, 1)
+output shape: (None, 1136, 1136, 1), (None, 1136, 1136, 2)
+2022-10-26 21:20:32.094713: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:116] None of the MLIR optimization passes are enabled (registered 2)
+2022-10-26 21:20:32.113583: I tensorflow/core/platform/profile_utils/cpu_utils.cc:112] CPU Frequency: 3504000000 Hz
+Epoch 1/20
+100/100 - 256s - loss: 6.6467e-04 - vxm_dense_transformer_loss: 6.4101e-04 - vxm_dense_flow_loss: 4.7320e-04
+Epoch 2/20
+100/100 - 255s - loss: 6.0516e-04 - vxm_dense_transformer_loss: 5.5795e-04 - vxm_dense_flow_loss: 9.4411e-04
+Epoch 3/20
+100/100 - 254s - loss: 5.5688e-04 - vxm_dense_transformer_loss: 5.1327e-04 - vxm_dense_flow_loss: 8.7217e-04
+Epoch 4/20
+100/100 - 255s - loss: 5.2060e-04 - vxm_dense_transformer_loss: 4.7513e-04 - vxm_dense_flow_loss: 9.0931e-04
+Epoch 5/20
+100/100 - 256s - loss: 5.5358e-04 - vxm_dense_transformer_loss: 5.0387e-04 - vxm_dense_flow_loss: 9.9416e-04
+Epoch 6/20
+100/100 - 273s - loss: 5.0583e-04 - vxm_dense_transformer_loss: 4.5817e-04 - vxm_dense_flow_loss: 9.5309e-04
+Epoch 7/20
+100/100 - 279s - loss: 5.1484e-04 - vxm_dense_transformer_loss: 4.6455e-04 - vxm_dense_flow_loss: 0.0010
+Epoch 8/20
+100/100 - 277s - loss: 5.1553e-04 - vxm_dense_transformer_loss: 4.6704e-04 - vxm_dense_flow_loss: 9.6973e-04
+Epoch 9/20
+100/100 - 278s - loss: 4.8470e-04 - vxm_dense_transformer_loss: 4.3725e-04 - vxm_dense_flow_loss: 9.4902e-04
+Epoch 10/20
+100/100 - 278s - loss: 5.0364e-04 - vxm_dense_transformer_loss: 4.5056e-04 - vxm_dense_flow_loss: 0.0011
+Epoch 11/20
+100/100 - 279s - loss: 4.8291e-04 - vxm_dense_transformer_loss: 4.3358e-04 - vxm_dense_flow_loss: 9.8662e-04
+Epoch 12/20
+100/100 - 280s - loss: 4.9505e-04 - vxm_dense_transformer_loss: 4.4863e-04 - vxm_dense_flow_loss: 9.2841e-04
+Epoch 13/20
+100/100 - 277s - loss: 4.8945e-04 - vxm_dense_transformer_loss: 4.4200e-04 - vxm_dense_flow_loss: 9.4907e-04
+Epoch 14/20
+100/100 - 279s - loss: 4.8602e-04 - vxm_dense_transformer_loss: 4.3687e-04 - vxm_dense_flow_loss: 9.8303e-04
+Epoch 15/20
+100/100 - 278s - loss: 5.0072e-04 - vxm_dense_transformer_loss: 4.4972e-04 - vxm_dense_flow_loss: 0.0010
+Epoch 16/20
+100/100 - 278s - loss: 5.0654e-04 - vxm_dense_transformer_loss: 4.5963e-04 - vxm_dense_flow_loss: 9.3830e-04
+Epoch 17/20
+100/100 - 279s - loss: 4.8898e-04 - vxm_dense_transformer_loss: 4.3999e-04 - vxm_dense_flow_loss: 9.7969e-04
+Epoch 18/20
+100/100 - 279s - loss: 5.1602e-04 - vxm_dense_transformer_loss: 4.6757e-04 - vxm_dense_flow_loss: 9.6900e-04
+Epoch 19/20
+100/100 - 278s - loss: 5.3298e-04 - vxm_dense_transformer_loss: 4.8360e-04 - vxm_dense_flow_loss: 9.8746e-04
+Epoch 20/20
+100/100 - 278s - loss: 4.8491e-04 - vxm_dense_transformer_loss: 4.3596e-04 - vxm_dense_flow_loss: 9.7885e-04
+#Benzoids
+sum2  43499.216149531305
+sum2  38834.57614478236
+sum2  41487.24950099876
+#other molecules
+sum2  50596.747343559284
+sum2  44232.07159698685
+sum2  44537.27625413379
