@@ -13,37 +13,21 @@ assert tf.__version__.startswith('2.'), 'This tutorial assumes Tensorflow 2.0+'
 
 # local imports
 import voxelmorph as vxm
-import neurite as ne
-
-#use this to get size
-#train_datagen=ImageDataGenerator(rescale=1./255)
-#train_set=train_datagen.flow_from_directory('../classes/Superclass/hmbc/train',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical')
-#x_train, y_train = next(train_set)
-#print(type(x_train))
-#x_train = x_train[:, :, :, 0]
-#print('shape of training data', x_train.shape)
-#pad_amount = ((0, 0), (10,9), (5,4))
-#x_train = np.pad(x_train, pad_amount, 'constant')
-#print('shape of training data', x_train.shape)
-#x_train=x_train.astype('float')/255
-
+from plot import slices
 
 imgs = []
-path = "/home/shk3/git/nmrchemclassify/classes/Superclass/hmbc/train/Benzenoids"
+path = "../classes/Superclass/hmbc/train/Benzenoids"
 valid_images = [".jpg",".gif",".png",".tga"]
 for f in os.listdir(path):
     ext = os.path.splitext(f)[1]
     if ext.lower() not in valid_images:
         continue
     imgorig=ImageOps.grayscale(Image.open(os.path.join(path,f)))
-    #print(imgorig.dtype)
     img=np.array(imgorig)
     pad_amount = ((175,170), (2,1))
     img = np.pad(img, pad_amount, 'constant')
     print(img.dtype)
     img=img.astype('float')/255
-    #img=img[:, :, np.newaxis]
-    print(img.shape)
     imgs.append(img)
 
 imgsnp = np.array(imgs)
@@ -130,7 +114,6 @@ def vxm_data_generator(x_data, batch_size=32):
         idx2 = np.random.randint(0, x_data.shape[0], size=batch_size)
         fixed_images = x_data[idx2, ..., np.newaxis]
         inputs = [moving_images, fixed_images]
-        print(moving_images.shape, moving_images.dtype)
         # prepare outputs (the 'true' moved image):
         # of course, we don't have this, but we know we want to compare 
         # the resulting moved image with the fixed image. 
@@ -140,49 +123,76 @@ def vxm_data_generator(x_data, batch_size=32):
         yield (inputs, outputs)
 
 train_generator = vxm_data_generator(imgsnp,2)
-nb_epochs = 10
+nb_epochs = 20
 steps_per_epoch = 100
 hist = vxm_model.fit_generator(train_generator, epochs=nb_epochs, steps_per_epoch=steps_per_epoch, verbose=2);
 
 #test with some benzenoids
 val_generator = vxm_data_generator(imgsnp, batch_size = 1)
 val_input, _ = next(val_generator)
-val_pred = vxm_model.evaluate(val_input)
-print(val_pred)
+val_pred = vxm_model.predict(val_input)
+sum=0
+for i in val_pred[1].squeeze():
+  for k in i:
+    for l in k:
+      sum=sum+abs(l)
+print("sum2 ",sum)
 val_input, _ = next(val_generator)
-val_pred = vxm_model.evaluate(val_input)
-print(val_pred)
+val_pred = vxm_model.predict(val_input)
+sum=0
+for i in val_pred[1].squeeze():
+  for k in i:
+    for l in k:
+      sum=sum+abs(l)
+print("sum2 ",sum)
 val_input, _ = next(val_generator)
-val_pred = vxm_model.evaluate(val_input)
-print(val_pred)
+val_pred = vxm_model.predict(val_input)
+sum=0
+for i in val_pred[1].squeeze():
+  for k in i:
+    for l in k:
+      sum=sum+abs(l)
+print("sum2 ",sum)
+
 #and some other molecules
 imgs = []
-path = "/home/shk3/git/nmrchemclassify/classes/Superclass/hmbc/train/Organic oxygen compounds"
+path = "../classes/Superclass/hmbc/train/Phenylpropanoids and polyketides"
 valid_images = [".jpg",".gif",".png",".tga"]
 for f in os.listdir(path):
     ext = os.path.splitext(f)[1]
     if ext.lower() not in valid_images:
         continue
     imgorig=ImageOps.grayscale(Image.open(os.path.join(path,f)))
-    #print(imgorig.dtype)
     img=np.array(imgorig)
     pad_amount = ((175,170), (2,1))
     img = np.pad(img, pad_amount, 'constant')
-    print(img.dtype)
     img=img.astype('float')/255
-    #img=img[:, :, np.newaxis]
-    print(img.shape)
     imgs.append(img)
 
 imgsnp = np.array(imgs)
 val_generator = vxm_data_generator(imgsnp, batch_size = 1)
 val_input, _ = next(val_generator)
-val_pred = vxm_model.evaluate(val_input)
-print(val_pred)
+val_pred = vxm_model.predict(val_input)
+sum=0
+for i in val_pred[1].squeeze():
+  for k in i:
+    for l in k:
+      sum=sum+abs(l)
+print("sum2 ",sum)
 val_input, _ = next(val_generator)
-val_pred = vxm_model.evaluate(val_input)
-print(val_pred)
+val_pred = vxm_model.predict(val_input)
+sum=0
+for i in val_pred[1].squeeze():
+  for k in i:
+    for l in k:
+      sum=sum+abs(l)
+print("sum2 ",sum)
 val_input, _ = next(val_generator)
-val_pred = vxm_model.evaluate(val_input)
-print(val_pred)
+val_pred = vxm_model.predict(val_input)
+sum=0
+for i in val_pred[1].squeeze():
+  for k in i:
+    for l in k:
+      sum=sum+abs(l)
+print("sum2 ",sum)
 
