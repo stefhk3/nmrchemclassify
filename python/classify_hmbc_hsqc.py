@@ -40,11 +40,11 @@ class JoinedGenerator(keras.utils.Sequence):
 
 
 train_datagen=ImageDataGenerator(rescale=1./255)
-train_set_hmbc=train_datagen.flow_from_directory('../classesboth/Superclass/hmbc/train',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
-train_set_hsqc=train_datagen.flow_from_directory('../classesboth/Superclass/hsqc/train',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
+train_set_hmbc=train_datagen.flow_from_directory('../classesbothfinal/Superclass/hmbc/train',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical',shuffle=False)
+train_set_hsqc=train_datagen.flow_from_directory('../classesbothfinal/Superclass/hsqc/train',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical',shuffle=False)
 training_generator = JoinedGenerator(train_set_hmbc, train_set_hsqc)
-test_set_hmbc=train_datagen.flow_from_directory('../classesboth/Superclass/hmbc/test',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
-test_set_hsqc=train_datagen.flow_from_directory('../classesboth/Superclass/hsqc/test',target_size=(1133,791),batch_size=1,color_mode='grayscale',class_mode='categorical',shuffle=False)
+test_set_hmbc=train_datagen.flow_from_directory('../classesbothfinal/Superclass/hmbc/test',target_size=(1133,791),batch_size=105,color_mode='grayscale',class_mode='categorical',shuffle=False)
+test_set_hsqc=train_datagen.flow_from_directory('../classesbothfinal/Superclass/hsqc/test',target_size=(1133,791),batch_size=105,color_mode='grayscale',class_mode='categorical',shuffle=False)
 testing_generator = JoinedGenerator(test_set_hmbc, test_set_hsqc)
 
 hmbc_input = keras.Input(
@@ -78,7 +78,7 @@ concatted = layers.Concatenate()([hsqc_flatten, hmbc_flatten])
 
 #the output
 dense = layers.Dense(64, activation='relu')(concatted)
-output = layers.Dense(17, activation='softmax', name='structure')(dense)
+output = layers.Dense(9, activation='softmax', name='structure')(dense)
 
 model = keras.Model(
     inputs=[hmbc_input, hsqc_input],
@@ -89,9 +89,9 @@ model = keras.Model(
 
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
-model.fit_generator(generator=training_generator,  epochs=10)
+model.fit_generator(generator=training_generator,  epochs=30)
 
-x_test, y_test = next(testing_generator)
-score = network.evaluate(x_test, y_test)
+x_test, y_test = testing_generator[0]
+score = model.evaluate(x_test, y_test)
 print('Test loss:', score[0])
 print('Test accuracy:', score[1])
