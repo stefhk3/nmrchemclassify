@@ -21,8 +21,9 @@ def load_image(img_path, show=False):
 
 test_datagen=ImageDataGenerator(rescale=1./255)
 train_datagen=ImageDataGenerator(rescale=1./255)
-test_set=test_datagen.flow_from_directory('../classes/Superclass/hsqc/test',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical')
-train_set=train_datagen.flow_from_directory('../classes/Superclass/hsqc/train',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical')
+test_set=test_datagen.flow_from_directory('../classesbothfinal/Superclass/hsqc/test',target_size=(1133,791),batch_size=105,color_mode='grayscale',class_mode='categorical')
+train_set=train_datagen.flow_from_directory('../classesbothfinal/Superclass/hsqc/train',target_size=(1133,791),batch_size=8,color_mode='grayscale',class_mode='categorical')
+
 #build network
 network=models.Sequential()
 network.add(layers.Conv2D(32, 3, activation='relu', input_shape=(1133,791, 1)))
@@ -34,11 +35,11 @@ network.add(layers.MaxPooling2D((2,2)))
 network.add(layers.Conv2D(128, 3, activation='relu'))
 network.add(layers.Flatten())
 network.add(layers.Dense(64, activation='relu'))
-network.add(layers.Dense(17, activation='softmax'))
+network.add(layers.Dense(9, activation='softmax'))
 #The default learning rate is 0.01
 network.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 #perform training
-network.fit(train_set, epochs=10)
+network.fit(train_set, epochs=30)
 
 x_test, y_test = next(test_set)
 score = network.evaluate(x_test, y_test) 
