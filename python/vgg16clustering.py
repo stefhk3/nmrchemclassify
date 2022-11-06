@@ -45,7 +45,7 @@ def extract_features(imgarray, model):
     return features
 
 train_datagen=ImageDataGenerator()#rescale=1./255)
-train_set=train_datagen.flow_from_directory('../classes/Superclass/hmbc/train',target_size=(1133,791),batch_size=8,color_mode='rgb',class_mode='categorical')
+train_set=train_datagen.flow_from_directory('../classesbothfinal/Superclass/hmbc/train',target_size=(1133,791),batch_size=8,color_mode='rgb',class_mode='categorical')
 
 data = {}
 classes = {}
@@ -59,7 +59,7 @@ for x,y in train_set:
 		classes[i] = np.argmax(y[z])
 		i+=1
 		print(i)
-		if i>=599:
+		if i>=400:
 			break
 	else:
 		continue
@@ -67,7 +67,7 @@ for x,y in train_set:
 
 feat = np.array(list(data.values()))
 print(feat.shape)
-# reshape so that there are 210 samples of 4096 vectors
+# reshape so that there are 4096 vectors
 feat = feat.reshape(-1,4096)
 print(feat.shape)
 
@@ -77,16 +77,17 @@ pca.fit(feat)
 x = pca.transform(feat)
 
 # cluster feature vectors
-kmeans = KMeans(n_clusters=11, random_state=22)
+kmeans = KMeans(n_clusters=9, random_state=22)
 kmeans.fit(x)
 
 groups = {}
-for file, cluster in zip(range(600),kmeans.labels_):
+for file, cluster in zip(range(400),kmeans.labels_):
     if cluster not in groups.keys():
         groups[cluster] = []
         groups[cluster].append(file)
     else:
         groups[cluster].append(file)
 
-for i in groups[0]:
-	print(classes[i])
+for group in groups.keys():
+	for i in groups[group]:
+		print(group," ", len(groups[group]),"  ",classes[i])
