@@ -13,6 +13,8 @@ from keras.models import Model
 
 # clustering and dimension reduction
 from sklearn.cluster import KMeans
+from sklearn.cluster import AgglomerativeClustering
+from sklearn.cluster import AffinityPropagation
 from sklearn.decomposition import PCA
 
 # for everything else
@@ -76,8 +78,12 @@ pca = PCA(n_components=100, random_state=22)
 pca.fit(feat)
 x = pca.transform(feat)
 
+
 # cluster feature vectors
+# uncomment for particular method
 kmeans = KMeans(n_clusters=9, random_state=22)
+#kmeans = AgglomerativeClustering(linkage='ward', n_clusters=9)
+#kmeans =  AffinityPropagation()
 kmeans.fit(x)
 
 groups = {}
