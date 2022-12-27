@@ -14,6 +14,7 @@ from keras.models import Model
 # clustering and dimension reduction
 from sklearn.cluster import KMeans
 from sklearn.cluster import AgglomerativeClustering
+from sklearn.cluster import SpectralClustering
 from sklearn.cluster import AffinityPropagation
 from sklearn.decomposition import PCA
 
@@ -84,6 +85,7 @@ x = pca.transform(feat)
 kmeans = KMeans(n_clusters=9, random_state=22)
 #kmeans = AgglomerativeClustering(linkage='ward', n_clusters=9)
 #kmeans =  AffinityPropagation()
+#kmeans = SpectralClustering(n_clusters=9)
 kmeans.fit(x)
 
 groups = {}
