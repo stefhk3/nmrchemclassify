@@ -1,9 +1,30 @@
-from tensorflow.keras.preprocessing.image import ImageDataGenerator
-from tensorflow.keras.preprocessing import image
-from tensorflow.keras import models
-from tensorflow.keras import layers
-from tensorflow import keras
+from keras.preprocessing.image import ImageDataGenerator
+from keras.preprocessing import image
+from keras import models
+from keras import layers
+from keras import backend as K
+from tensorflow import keras 
 import numpy as np
+from sklearn.metrics import classification_report
+from sklearn.metrics import matthews_corrcoef
+#import matplotlib.pyplot as plt
+
+def recall_m(y_true, y_pred):
+    true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
+    possible_positives = K.sum(K.round(K.clip(y_true, 0, 1)))
+    recall = true_positives / (possible_positives + K.epsilon())
+    return recall
+
+def precision_m(y_true, y_pred):
+    true_positives = K.sum(K.round(K.clip(y_true * y_pred, 0, 1)))
+    predicted_positives = K.sum(K.round(K.clip(y_pred, 0, 1)))
+    precision = true_positives / (predicted_positives + K.epsilon())
+    return precision
+
+def f1_m(y_true, y_pred):
+    precision = precision_m(y_true, y_pred)
+    recall = recall_m(y_true, y_pred)
+    return 2*((precision*recall)/(precision+recall+K.epsilon()))
 
 #This script needs the hmbc and hsqc spectrum from each compound. Either remove the hsqc spectra without hmbc, or add blank images for hmbc to make them match
 
@@ -87,11 +108,18 @@ model = keras.Model(
 
 #model.summary()
 
-model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy',f1_m,precision_m, recall_m])
 
 model.fit_generator(generator=training_generator,  epochs=30)
 
 x_test, y_test = testing_generator[0]
+y_pred = model.predict(x_test, batch_size=105, verbose=1)
+y_test_bool= np.argmax(y_test, axis=1)
+y_pred_bool = np.argmax(y_pred, axis=1)
+print( "matthews_corrcoef", matthews_corrcoef(y_test_bool, y_pred_bool))
+#print(classification_report(y_test, y_pred))
+
+
 score = model.evaluate(x_test, y_test)
 print('Test loss:', score[0])
-print('Test accuracy:', score[1])
+print('Test accuracy:', score[1], score[2], score[3], score[4])
